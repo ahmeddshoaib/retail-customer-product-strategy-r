@@ -1,0 +1,9 @@
+data_label,term,estimate
+synthetic_demo,(Intercept),7.5287644797525495
+synthetic_demo,factor(Format)Pods,0.7561906361120817
+synthetic_demo,factor(Format)Whole bean,-0.603354117433573
+synthetic_demo,Price,-0.5569908963581469
+synthetic_demo,factor(Origin)Colombia,0.14513268277466504
+synthetic_demo,factor(Origin)Ethiopia,0.2181900647985943
+synthetic_demo,factor(Strength)Strong,0.26855536145696013
+synthetic_demo,factor(Sustainability)Standard,-0.5916722488135858

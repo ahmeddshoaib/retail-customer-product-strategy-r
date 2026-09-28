@@ -1,0 +1,13 @@
+data_label,Product,Format,Price,Sustainability,PC1,PC2
+synthetic_demo,Concept 1,Ground,6.5,Certified,1.2512572250539573,1.1257538728230196
+synthetic_demo,Concept 2,Pods,6.5,Certified,2.029132470862216,0.23016188535878696
+synthetic_demo,Concept 3,Pods,8,Certified,1.423715516072851,-0.6878144272464793
+synthetic_demo,Concept 4,Ground,6.5,Standard,-0.011478829613939838,1.2152112982479868
+synthetic_demo,Concept 5,Whole bean,9.5,Certified,-0.4781601817302797,-0.11313742741135786
+synthetic_demo,Concept 6,Pods,9.5,Certified,0.8182985612834855,-1.605790739851746
+synthetic_demo,Concept 7,Whole bean,8,Certified,0.12725677305908586,0.8048388851939086
+synthetic_demo,Concept 8,Ground,9.5,Standard,-1.2223127391926707,-0.620741326962546
+synthetic_demo,Concept 9,Ground,8,Standard,-0.6168957844033053,0.29723498564272033
+synthetic_demo,Concept 10,Whole bean,8,Standard,-1.1354792816088113,0.8942963106188755
+synthetic_demo,Concept 11,Whole bean,9.5,Standard,-1.7408962363981768,-0.023680001986390822
+synthetic_demo,Concept 12,Pods,9.5,Standard,-0.4444374933844116,-1.5163333144267788

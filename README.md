@@ -1,0 +1,77 @@
+# Retail Customer & Product Strategy in R
+
+A commercial analytics case that connects customer value, behavioural segmentation and product design into one retail decision: **which customers should a new coffee product target, and what proposition should the retailer take to market?**
+
+The submitted MSc project combined RFM analysis, clustering, prospect classification, conjoint analysis, market-share simulation and PCA. The public rebuild focuses on the strongest commercial methods and uses synthetic data because the four university source files are unavailable.
+
+## Historical project evidence
+
+The submitted analysis covered **925 customers** and reported:
+
+- total revenue of **£101,728.60**;
+- coffee revenue of **£16,154.17**;
+- a four-segment customer solution;
+- conjoint importance led by format at **44.5%** and price at **31.1%**;
+- a simulated **32.0%** share for the proposed concept.
+
+Those figures remain archived academic results. All public outputs in this repository carry a `synthetic_demo` label and should not be read as real retailer performance.
+
+![Synthetic segment profile](figures/rfm_segment_profile.png)
+
+## Decision flow
+
+```text
+transaction history
+      |
+      v
+RFM customer value + four behavioural clusters
+      |
+      v
+target segment definition
+      |
+      +--> conjoint part-worths and attribute importance
+      +--> concept utility and share simulation
+      `--> PCA competitive positioning
+      |
+      v
+evidence-based product, price, channel and promotion choices
+```
+
+## What the rebuild improves
+
+- Separates exploratory segmentation from predictive claims.
+- Removes the weak LDA headline: the submitted classifier achieved no meaningful lift over the null rate.
+- Provides one reproducible run instead of a long monolithic script.
+- Exports customer-level RFM and segment assignments.
+- Keeps conjoint design, coefficients and attribute importance traceable.
+- Labels simulated market share as a preference scenario rather than a sales forecast.
+
+![Synthetic conjoint importance](figures/conjoint_importance.png)
+
+## Repository guide
+
+| Path | Purpose |
+|---|---|
+| `R/generate_demo_data.R` | Synthetic transactions, conjoint responses and product profiles |
+| `R/run_analysis.R` | RFM, clustering, conjoint, simulation and PCA |
+| `outputs/` | Customer and product decision tables |
+| `figures/` | Segment and product visuals |
+| `tests/validate_results.R` | Grain and reconciliation checks |
+
+## Run it
+
+```bash
+Rscript requirements.R
+Rscript R/generate_demo_data.R
+Rscript R/run_analysis.R
+Rscript tests/validate_results.R
+```
+
+## Responsible interpretation
+
+RFM clusters describe observed purchasing patterns; they do not prove future response. Conjoint utilities come from stated preferences and are sensitive to design and sample quality. The market-share output is a controlled preference simulation, not a commercial forecast.
+
+## Author
+
+**Muhammad Ahmed Shoaib** — retail analytics, customer segmentation and commercial decision support.
+

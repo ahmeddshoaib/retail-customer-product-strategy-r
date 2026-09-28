@@ -1,0 +1,1441 @@
+Respondent,Task,Format,Price,Origin,Strength,Sustainability,Rating
+1,1,Pods,8,Blend,Strong,Standard,4.2768187361242616
+1,2,Pods,6.5,Ethiopia,Strong,Certified,4.822594933760861
+1,3,Whole bean,6.5,Colombia,Medium,Certified,3.2582569675117106
+1,4,Whole bean,9.5,Colombia,Strong,Standard,1.9821622437632886
+1,5,Pods,8,Blend,Medium,Standard,2.762763671134482
+1,6,Whole bean,8,Ethiopia,Strong,Standard,3.520165994584425
+1,7,Ground,9.5,Ethiopia,Medium,Certified,2.0834582997885307
+1,8,Pods,9.5,Blend,Medium,Standard,3.594140171866079
+2,1,Pods,8,Ethiopia,Medium,Standard,3.002328163054406
+2,2,Whole bean,8,Ethiopia,Medium,Certified,1.7307475960115772
+2,3,Pods,8,Colombia,Medium,Standard,3.7323812912856225
+2,4,Ground,8,Ethiopia,Strong,Standard,3.443045709814009
+2,5,Ground,9.5,Ethiopia,Medium,Certified,2.605878872602836
+2,6,Pods,8,Ethiopia,Strong,Standard,3.7037751533960463
+2,7,Pods,8,Ethiopia,Strong,Certified,3.2101824406069315
+2,8,Ground,8,Colombia,Medium,Certified,3.335789134270016
+3,1,Pods,9.5,Blend,Medium,Standard,2.9082349721752974
+3,2,Pods,8,Ethiopia,Strong,Standard,4.131464707944463
+3,3,Pods,6.5,Blend,Strong,Standard,4.1183756193968195
+3,4,Whole bean,9.5,Blend,Strong,Certified,1.151642918459416
+3,5,Whole bean,9.5,Ethiopia,Medium,Certified,2.708889489525695
+3,6,Whole bean,9.5,Colombia,Medium,Certified,1.0360090678574658
+3,7,Pods,9.5,Colombia,Medium,Standard,1.1077551693205294
+3,8,Ground,9.5,Blend,Strong,Standard,2.1945147100534377
+4,1,Whole bean,8,Colombia,Medium,Standard,2.561767320057989
+4,2,Whole bean,6.5,Colombia,Medium,Certified,3.315195846772902
+4,3,Pods,9.5,Ethiopia,Strong,Certified,3.4759111297065317
+4,4,Pods,8,Colombia,Medium,Certified,3.4179757101017563
+4,5,Pods,9.5,Blend,Medium,Certified,1.7540964732620916
+4,6,Whole bean,8,Ethiopia,Medium,Certified,2.4440370243059633
+4,7,Whole bean,9.5,Blend,Strong,Standard,2.8829705285059775
+4,8,Whole bean,8,Colombia,Medium,Certified,1.7907546696893726
+5,1,Pods,9.5,Ethiopia,Medium,Standard,2.3293986943411067
+5,2,Pods,9.5,Blend,Strong,Standard,0.9723935993064745
+5,3,Pods,9.5,Blend,Medium,Standard,3.0507978487992657
+5,4,Whole bean,8,Ethiopia,Strong,Standard,2.0825916034000675
+5,5,Whole bean,6.5,Blend,Medium,Certified,2.166640077164547
+5,6,Pods,8,Colombia,Medium,Certified,3.3831399939639493
+5,7,Ground,9.5,Colombia,Medium,Certified,1.3770719751534732
+5,8,Pods,6.5,Ethiopia,Strong,Certified,4.256012172577753
+6,1,Whole bean,8,Colombia,Strong,Standard,1.9273894725853262
+6,2,Whole bean,9.5,Ethiopia,Medium,Standard,3.200838867854618
+6,3,Ground,9.5,Colombia,Medium,Certified,1.6757126015345372
+6,4,Pods,9.5,Blend,Strong,Certified,2.298767515997531
+6,5,Ground,9.5,Ethiopia,Strong,Certified,1.3983369629028477
+6,6,Pods,9.5,Ethiopia,Strong,Certified,3.5712569875710534
+6,7,Whole bean,6.5,Ethiopia,Medium,Standard,3.0175131925757084
+6,8,Ground,9.5,Blend,Strong,Standard,3.421541039326108
+7,1,Ground,9.5,Colombia,Strong,Certified,2.328307236521004
+7,2,Ground,9.5,Ethiopia,Medium,Certified,3.623578467261323
+7,3,Pods,8,Blend,Medium,Standard,3.2978220016388464
+7,4,Ground,6.5,Ethiopia,Medium,Certified,3.254263918218979
+7,5,Pods,6.5,Colombia,Strong,Certified,4.139323587760268
+7,6,Pods,8,Colombia,Medium,Standard,2.638246125340357
+7,7,Whole bean,9.5,Ethiopia,Medium,Certified,2.4582983795930398
+7,8,Ground,6.5,Blend,Strong,Standard,3.2545398775108128
+8,1,Ground,6.5,Blend,Strong,Certified,4.0890025847230245
+8,2,Ground,8,Ethiopia,Strong,Certified,3.613661120468795
+8,3,Whole bean,6.5,Colombia,Medium,Standard,3.7531310802379143
+8,4,Ground,6.5,Colombia,Strong,Certified,2.9574465321052736
+8,5,Ground,6.5,Colombia,Medium,Standard,2.7644478104917454
+8,6,Whole bean,9.5,Colombia,Strong,Certified,2.6650143731743254
+8,7,Ground,8,Blend,Medium,Certified,4.114155751030857
+8,8,Ground,9.5,Blend,Strong,Standard,3.4392606009786237
+9,1,Whole bean,8,Ethiopia,Medium,Certified,1.5622335323730552
+9,2,Ground,6.5,Ethiopia,Medium,Certified,3.7041880950461517
+9,3,Pods,9.5,Blend,Medium,Standard,3.35196562754499
+9,4,Ground,8,Blend,Medium,Certified,2.954349197199543
+9,5,Ground,6.5,Ethiopia,Strong,Standard,3.830880583237769
+9,6,Ground,8,Colombia,Medium,Standard,3.204161289925252
+9,7,Whole bean,6.5,Ethiopia,Strong,Certified,4.216519731421499
+9,8,Ground,8,Colombia,Strong,Standard,1.184377649378109
+10,1,Whole bean,9.5,Colombia,Medium,Certified,1.3657303725619219
+10,2,Whole bean,8,Ethiopia,Medium,Standard,1.6009833990604707
+10,3,Pods,8,Colombia,Medium,Standard,4.1442786298921925
+10,4,Whole bean,9.5,Blend,Medium,Standard,1.7360439370047582
+10,5,Pods,9.5,Blend,Strong,Standard,1.742987972948228
+10,6,Pods,9.5,Blend,Medium,Certified,1.8651616508969673
+10,7,Whole bean,6.5,Blend,Strong,Certified,2.1352772881997724
+10,8,Whole bean,9.5,Ethiopia,Medium,Certified,2.7760500570270374
+11,1,Pods,6.5,Blend,Strong,Certified,3.482494963356439
+11,2,Pods,8,Colombia,Medium,Certified,4.623557148891021
+11,3,Ground,9.5,Ethiopia,Strong,Standard,2.5843448484108396
+11,4,Pods,8,Blend,Strong,Certified,4.15317138188034
+11,5,Ground,8,Ethiopia,Medium,Standard,2.9790479451077765
+11,6,Whole bean,9.5,Ethiopia,Medium,Certified,0.4256703946980662
+11,7,Ground,9.5,Colombia,Strong,Certified,2.4992410512055474
+11,8,Ground,9.5,Ethiopia,Medium,Standard,1.2896400982198262
+12,1,Ground,6.5,Blend,Strong,Standard,4.216069666481267
+12,2,Whole bean,9.5,Blend,Strong,Standard,2.32591868249872
+12,3,Whole bean,8,Blend,Medium,Standard,1.6174036446951254
+12,4,Whole bean,6.5,Blend,Strong,Standard,2.424973060444477
+12,5,Whole bean,6.5,Ethiopia,Strong,Certified,3.096525094019937
+12,6,Ground,9.5,Ethiopia,Strong,Certified,2.6475095675972584
+12,7,Whole bean,9.5,Ethiopia,Strong,Certified,0.9960446418615394
+12,8,Whole bean,6.5,Colombia,Strong,Standard,3.1989730133722283
+13,1,Whole bean,9.5,Blend,Medium,Certified,1.7014478407286484
+13,2,Whole bean,6.5,Colombia,Medium,Standard,3.547653844789224
+13,3,Whole bean,6.5,Blend,Medium,Standard,3.4417122235796707
+13,4,Pods,8,Blend,Medium,Certified,4.617574889599654
+13,5,Ground,6.5,Colombia,Strong,Standard,2.315068572936966
+13,6,Whole bean,8,Colombia,Strong,Standard,1.9245949841147598
+13,7,Whole bean,8,Colombia,Strong,Standard,2.834262497118268
+13,8,Pods,6.5,Colombia,Medium,Certified,5.174556199379954
+14,1,Whole bean,9.5,Colombia,Medium,Certified,3.234121701962554
+14,2,Ground,8,Ethiopia,Strong,Standard,5.125076519393195
+14,3,Ground,8,Blend,Medium,Standard,3.2960715511549132
+14,4,Ground,8,Colombia,Medium,Standard,2.6349460879732387
+14,5,Pods,8,Colombia,Strong,Standard,3.181090010235123
+14,6,Whole bean,6.5,Ethiopia,Strong,Certified,4.295703574311902
+14,7,Ground,8,Colombia,Medium,Standard,1.5021591196490558
+14,8,Whole bean,6.5,Colombia,Medium,Standard,3.40696828197086
+15,1,Ground,8,Blend,Strong,Standard,1.8312307418101823
+15,2,Ground,9.5,Colombia,Medium,Certified,0.8674434235278223
+15,3,Pods,8,Ethiopia,Medium,Certified,4.485896394464586
+15,4,Whole bean,9.5,Blend,Medium,Standard,-0.5359188517398785
+15,5,Ground,8,Blend,Medium,Standard,3.3212734422997023
+15,6,Ground,6.5,Ethiopia,Medium,Certified,4.55248611724346
+15,7,Whole bean,8,Ethiopia,Medium,Certified,2.2907718149324725
+15,8,Whole bean,9.5,Blend,Strong,Certified,0.8664967830793988
+16,1,Ground,8,Colombia,Strong,Certified,3.0385563839394565
+16,2,Ground,8,Blend,Medium,Certified,3.029754380809879
+16,3,Whole bean,9.5,Ethiopia,Medium,Standard,1.130275550595212
+16,4,Whole bean,8,Colombia,Strong,Standard,1.4481220936672745
+16,5,Whole bean,8,Blend,Medium,Certified,2.7549836684779367
+16,6,Whole bean,9.5,Blend,Medium,Certified,2.4836355087803383
+16,7,Pods,9.5,Blend,Medium,Standard,3.1853070405094615
+16,8,Ground,6.5,Colombia,Strong,Standard,4.73935092684269
+17,1,Pods,6.5,Blend,Strong,Standard,4.477264808236965
+17,2,Ground,6.5,Colombia,Strong,Standard,5.126778680754309
+17,3,Pods,8,Blend,Strong,Certified,4.052293752166227
+17,4,Pods,8,Ethiopia,Strong,Certified,5.197734537559718
+17,5,Ground,6.5,Ethiopia,Medium,Certified,4.715154441438534
+17,6,Pods,6.5,Ethiopia,Strong,Certified,5.006435947022673
+17,7,Whole bean,9.5,Ethiopia,Strong,Standard,1.5934718621829194
+17,8,Pods,6.5,Colombia,Medium,Certified,4.332820579542392
+18,1,Whole bean,6.5,Colombia,Strong,Certified,5.226809808867442
+18,2,Whole bean,6.5,Ethiopia,Medium,Certified,4.143798670231643
+18,3,Pods,9.5,Colombia,Medium,Standard,3.7795736923759007
+18,4,Ground,6.5,Colombia,Strong,Certified,5.4358506708192165
+18,5,Pods,6.5,Ethiopia,Strong,Certified,5.260909504673691
+18,6,Whole bean,8,Ethiopia,Medium,Certified,2.46220846689078
+18,7,Pods,6.5,Colombia,Strong,Certified,5.026538931018777
+18,8,Pods,8,Ethiopia,Strong,Standard,4.539041674482769
+19,1,Ground,6.5,Ethiopia,Medium,Standard,4.335952508450712
+19,2,Whole bean,6.5,Blend,Strong,Standard,2.9501120547020068
+19,3,Whole bean,6.5,Ethiopia,Strong,Certified,3.6251594661905022
+19,4,Pods,9.5,Ethiopia,Medium,Standard,1.9109010568202145
+19,5,Whole bean,9.5,Ethiopia,Strong,Certified,2.692123932834494
+19,6,Ground,9.5,Ethiopia,Strong,Standard,2.5425339417136907
+19,7,Pods,6.5,Blend,Strong,Standard,3.6292058861544856
+19,8,Whole bean,9.5,Ethiopia,Medium,Standard,1.5578100436586553
+20,1,Ground,9.5,Blend,Strong,Standard,2.836818273722961
+20,2,Whole bean,9.5,Blend,Strong,Standard,1.0227390439238053
+20,3,Pods,9.5,Colombia,Strong,Certified,2.8525152266444143
+20,4,Pods,6.5,Blend,Medium,Standard,5.152055827500485
+20,5,Ground,9.5,Colombia,Strong,Standard,1.7916478193731562
+20,6,Pods,8,Colombia,Strong,Certified,2.3328818089585304
+20,7,Whole bean,8,Blend,Strong,Certified,3.4168773953383167
+20,8,Pods,9.5,Blend,Strong,Standard,2.8141719333119224
+21,1,Whole bean,9.5,Blend,Medium,Standard,1.2907110210029662
+21,2,Whole bean,8,Colombia,Strong,Standard,4.492715115479557
+21,3,Ground,8,Blend,Medium,Standard,1.9502992626881634
+21,4,Ground,6.5,Ethiopia,Strong,Certified,4.043826190334025
+21,5,Whole bean,6.5,Colombia,Strong,Standard,3.55477498488575
+21,6,Pods,9.5,Blend,Medium,Certified,3.2085153171536334
+21,7,Whole bean,9.5,Ethiopia,Medium,Standard,1.3032058880354525
+21,8,Ground,8,Blend,Medium,Certified,1.7817954889866268
+22,1,Pods,6.5,Blend,Strong,Certified,3.7755570152360907
+22,2,Whole bean,6.5,Blend,Medium,Certified,2.582395784568966
+22,3,Pods,8,Blend,Medium,Certified,3.9373635603467223
+22,4,Whole bean,8,Blend,Strong,Standard,2.0234194302903266
+22,5,Pods,9.5,Blend,Medium,Standard,1.522094180441003
+22,6,Pods,6.5,Colombia,Medium,Standard,2.9881645659394644
+22,7,Pods,8,Ethiopia,Medium,Standard,4.148733467020164
+22,8,Ground,8,Ethiopia,Medium,Standard,2.1868726201383857
+23,1,Whole bean,9.5,Blend,Medium,Certified,1.8116794584275302
+23,2,Whole bean,6.5,Blend,Medium,Certified,2.879796169195004
+23,3,Ground,9.5,Colombia,Medium,Certified,3.0520528400040257
+23,4,Pods,8,Ethiopia,Medium,Standard,3.154217724372762
+23,5,Whole bean,9.5,Ethiopia,Strong,Certified,1.7862093411309408
+23,6,Whole bean,8,Ethiopia,Medium,Certified,1.948377339281886
+23,7,Ground,8,Blend,Medium,Certified,2.43237982874052
+23,8,Ground,6.5,Colombia,Medium,Standard,2.335088357544759
+24,1,Pods,8,Colombia,Strong,Certified,3.3074162003489618
+24,2,Whole bean,8,Colombia,Strong,Standard,2.2446158098312283
+24,3,Ground,8,Blend,Strong,Certified,4.469252741578633
+24,4,Pods,6.5,Blend,Strong,Standard,4.395629973659324
+24,5,Pods,8,Ethiopia,Medium,Standard,3.674001442726961
+24,6,Ground,9.5,Blend,Strong,Certified,2.7750992746185728
+24,7,Whole bean,8,Ethiopia,Strong,Standard,2.1444097752914204
+24,8,Ground,8,Ethiopia,Medium,Standard,3.025785232588311
+25,1,Pods,8,Colombia,Medium,Standard,3.849390081580424
+25,2,Pods,8,Colombia,Strong,Certified,3.762774812802788
+25,3,Ground,8,Colombia,Medium,Certified,3.118992922517598
+25,4,Whole bean,6.5,Ethiopia,Strong,Standard,2.9455636997713253
+25,5,Pods,6.5,Ethiopia,Medium,Standard,3.075370913316721
+25,6,Whole bean,8,Ethiopia,Strong,Standard,1.3033492746350706
+25,7,Ground,9.5,Colombia,Strong,Standard,2.87962264527794
+25,8,Ground,9.5,Blend,Strong,Standard,2.9701603479571013
+26,1,Ground,8,Blend,Strong,Certified,4.615530842277387
+26,2,Whole bean,9.5,Blend,Medium,Certified,2.0217675854240715
+26,3,Whole bean,8,Colombia,Strong,Standard,1.188800963663243
+26,4,Pods,6.5,Colombia,Medium,Certified,5.930626871332182
+26,5,Pods,6.5,Blend,Medium,Standard,3.7452413106721463
+26,6,Pods,6.5,Colombia,Strong,Certified,5.582982748682269
+26,7,Whole bean,6.5,Ethiopia,Medium,Certified,5.100879571233271
+26,8,Ground,9.5,Blend,Strong,Standard,0.942334718678361
+27,1,Pods,8,Ethiopia,Medium,Certified,2.655034210838755
+27,2,Whole bean,8,Colombia,Medium,Certified,1.8738359396210331
+27,3,Pods,8,Blend,Medium,Certified,5.308184715247527
+27,4,Whole bean,6.5,Ethiopia,Medium,Standard,2.7775557344634114
+27,5,Pods,9.5,Colombia,Strong,Standard,2.807937071292287
+27,6,Whole bean,8,Colombia,Medium,Certified,3.322646398283719
+27,7,Ground,6.5,Colombia,Strong,Certified,4.411675261246427
+27,8,Ground,6.5,Colombia,Strong,Standard,3.96582547487609
+28,1,Whole bean,9.5,Ethiopia,Medium,Standard,1.777075987993832
+28,2,Pods,9.5,Blend,Medium,Certified,4.447032981923248
+28,3,Ground,8,Blend,Strong,Certified,3.6131717873496467
+28,4,Ground,8,Blend,Strong,Standard,2.797663618819741
+28,5,Pods,8,Blend,Medium,Standard,2.547738428063382
+28,6,Pods,6.5,Blend,Medium,Certified,4.198220376606093
+28,7,Ground,8,Colombia,Strong,Standard,2.919270625424592
+28,8,Ground,6.5,Colombia,Medium,Standard,3.5684183158681497
+29,1,Ground,6.5,Colombia,Strong,Standard,4.191844812709894
+29,2,Whole bean,8,Colombia,Strong,Standard,0.2608779277152098
+29,3,Whole bean,9.5,Ethiopia,Medium,Certified,1.4396360195493014
+29,4,Pods,8,Ethiopia,Medium,Certified,4.92337187983244
+29,5,Pods,6.5,Colombia,Medium,Certified,5.446538909160603
+29,6,Pods,8,Ethiopia,Medium,Certified,4.162467115984769
+29,7,Pods,6.5,Ethiopia,Strong,Certified,5.087511502157116
+29,8,Ground,9.5,Colombia,Strong,Standard,2.2323305877130113
+30,1,Pods,6.5,Blend,Medium,Standard,3.2511736793336974
+30,2,Ground,8,Ethiopia,Medium,Standard,2.466640885822238
+30,3,Whole bean,6.5,Blend,Medium,Standard,2.4524344425820024
+30,4,Pods,8,Ethiopia,Strong,Standard,3.2701113049722914
+30,5,Pods,9.5,Ethiopia,Strong,Certified,4.2110193855527
+30,6,Ground,6.5,Colombia,Medium,Standard,3.8537086373593747
+30,7,Pods,9.5,Blend,Strong,Certified,3.1675267739495467
+30,8,Ground,8,Blend,Medium,Certified,2.9430244232067815
+31,1,Whole bean,9.5,Colombia,Medium,Standard,1.0120729445670884
+31,2,Whole bean,9.5,Ethiopia,Strong,Certified,1.9249200845368755
+31,3,Whole bean,8,Ethiopia,Strong,Standard,0.4853314176189345
+31,4,Ground,8,Ethiopia,Strong,Standard,3.6474779945362794
+31,5,Whole bean,9.5,Ethiopia,Medium,Certified,2.272113710453239
+31,6,Whole bean,8,Colombia,Medium,Standard,2.1773259487146244
+31,7,Pods,9.5,Colombia,Strong,Standard,2.366874581714812
+31,8,Ground,8,Blend,Medium,Certified,4.296192428009567
+32,1,Whole bean,9.5,Ethiopia,Strong,Standard,2.4532549676657744
+32,2,Whole bean,6.5,Colombia,Strong,Standard,1.5828890752225533
+32,3,Whole bean,8,Ethiopia,Medium,Standard,1.809807961650821
+32,4,Ground,9.5,Ethiopia,Strong,Certified,2.85614777505502
+32,5,Ground,9.5,Colombia,Strong,Certified,3.0123088442515877
+32,6,Ground,9.5,Blend,Medium,Certified,1.264949587240534
+32,7,Pods,8,Colombia,Medium,Standard,2.5418138351637287
+32,8,Ground,8,Blend,Strong,Certified,4.033265438005186
+33,1,Whole bean,8,Colombia,Strong,Standard,2.595210167300531
+33,2,Pods,8,Ethiopia,Strong,Standard,4.299047651848678
+33,3,Whole bean,8,Colombia,Medium,Certified,2.545045234222911
+33,4,Whole bean,8,Colombia,Strong,Certified,3.0173383363470303
+33,5,Ground,6.5,Colombia,Strong,Standard,5.816373690382898
+33,6,Whole bean,6.5,Ethiopia,Medium,Standard,2.078333176293792
+33,7,Whole bean,8,Colombia,Medium,Certified,2.088374979340039
+33,8,Ground,6.5,Ethiopia,Strong,Certified,3.6095037760258446
+34,1,Ground,6.5,Colombia,Strong,Certified,3.5657977074031777
+34,2,Pods,8,Ethiopia,Medium,Standard,3.9331310027273902
+34,3,Whole bean,6.5,Blend,Strong,Certified,3.450230358276659
+34,4,Ground,8,Colombia,Medium,Certified,2.0536598544946685
+34,5,Ground,9.5,Colombia,Medium,Certified,2.9009049901321333
+34,6,Whole bean,6.5,Colombia,Strong,Certified,2.921169376942933
+34,7,Ground,9.5,Colombia,Medium,Certified,2.1344445454175753
+34,8,Pods,6.5,Blend,Strong,Certified,4.833672384411572
+35,1,Ground,8,Ethiopia,Strong,Standard,2.3958516615885745
+35,2,Pods,6.5,Ethiopia,Strong,Standard,5.943987032417351
+35,3,Ground,8,Colombia,Medium,Standard,0.6408586267466898
+35,4,Pods,9.5,Colombia,Medium,Certified,3.475233912558602
+35,5,Ground,9.5,Blend,Medium,Certified,1.484194808173705
+35,6,Pods,8,Blend,Strong,Certified,4.5415751515128715
+35,7,Whole bean,6.5,Colombia,Medium,Certified,4.396185132025527
+35,8,Ground,9.5,Blend,Strong,Certified,3.5798644653215517
+36,1,Ground,6.5,Ethiopia,Strong,Standard,5.086093300832588
+36,2,Ground,6.5,Ethiopia,Medium,Certified,4.516539159781207
+36,3,Pods,8,Colombia,Medium,Certified,4.890377980405775
+36,4,Whole bean,8,Colombia,Strong,Standard,1.283229005964738
+36,5,Ground,6.5,Ethiopia,Medium,Standard,1.2740973286430206
+36,6,Whole bean,6.5,Blend,Strong,Standard,3.7724347158218703
+36,7,Pods,6.5,Ethiopia,Medium,Standard,3.6289419170705792
+36,8,Pods,6.5,Ethiopia,Strong,Certified,5.184531547799678
+37,1,Whole bean,6.5,Colombia,Medium,Certified,2.8045746225436354
+37,2,Ground,8,Colombia,Medium,Standard,3.408253623772006
+37,3,Ground,9.5,Ethiopia,Strong,Certified,3.1437574677186313
+37,4,Ground,6.5,Ethiopia,Medium,Certified,3.122127575314696
+37,5,Pods,9.5,Ethiopia,Strong,Certified,3.2242723067029955
+37,6,Whole bean,8,Blend,Strong,Certified,2.939818231145191
+37,7,Ground,9.5,Ethiopia,Strong,Certified,3.29711685524091
+37,8,Whole bean,9.5,Ethiopia,Strong,Standard,1.0245399283044756
+38,1,Whole bean,9.5,Colombia,Strong,Standard,2.129036310582
+38,2,Pods,8,Colombia,Strong,Certified,4.687426535967217
+38,3,Ground,6.5,Colombia,Medium,Standard,1.4382313358536254
+38,4,Whole bean,9.5,Ethiopia,Strong,Certified,0.7833733803443992
+38,5,Whole bean,6.5,Colombia,Strong,Standard,2.2668901992870363
+38,6,Pods,9.5,Colombia,Medium,Certified,3.0401425317848103
+38,7,Ground,8,Colombia,Strong,Certified,5.1277894855700925
+38,8,Ground,9.5,Blend,Medium,Standard,1.0646285281991836
+39,1,Whole bean,8,Blend,Strong,Certified,2.2167656899532338
+39,2,Pods,8,Ethiopia,Medium,Standard,2.680933050811433
+39,3,Ground,8,Blend,Medium,Standard,1.7528059055966616
+39,4,Pods,6.5,Colombia,Medium,Standard,3.635388106129785
+39,5,Pods,8,Colombia,Medium,Certified,3.489750375582922
+39,6,Pods,8,Colombia,Strong,Standard,3.010709962157856
+39,7,Whole bean,6.5,Blend,Medium,Standard,1.5017714990882036
+39,8,Pods,6.5,Ethiopia,Strong,Standard,4.967757790842226
+40,1,Pods,6.5,Blend,Strong,Standard,4.840719613243871
+40,2,Pods,9.5,Ethiopia,Medium,Certified,2.572432495317983
+40,3,Ground,6.5,Colombia,Strong,Standard,3.967886525776551
+40,4,Whole bean,9.5,Ethiopia,Medium,Standard,1.9540193660053224
+40,5,Ground,9.5,Colombia,Medium,Standard,1.8193872541954894
+40,6,Ground,8,Colombia,Strong,Standard,3.1316599228898556
+40,7,Ground,9.5,Blend,Strong,Standard,1.3317323671390384
+40,8,Ground,9.5,Colombia,Strong,Standard,3.2193631713167243
+41,1,Pods,9.5,Colombia,Medium,Certified,2.201334783838834
+41,2,Pods,8,Ethiopia,Medium,Certified,5.245554558811728
+41,3,Pods,6.5,Blend,Strong,Standard,2.971792894323385
+41,4,Whole bean,9.5,Blend,Medium,Certified,1.5229883466004313
+41,5,Pods,8,Colombia,Strong,Certified,3.4832102252069586
+41,6,Pods,9.5,Ethiopia,Strong,Certified,4.171462671742229
+41,7,Ground,8,Colombia,Medium,Certified,2.8015973232512277
+41,8,Pods,8,Colombia,Strong,Standard,4.390470524557664
+42,1,Whole bean,9.5,Colombia,Medium,Certified,1.5120357010514327
+42,2,Ground,9.5,Blend,Medium,Standard,1.3711029720766736
+42,3,Whole bean,9.5,Blend,Medium,Standard,2.004273009453966
+42,4,Whole bean,6.5,Colombia,Strong,Certified,0.9878500582863463
+42,5,Ground,8,Ethiopia,Strong,Certified,3.3321779063035835
+42,6,Whole bean,6.5,Blend,Medium,Standard,3.4210367162907267
+42,7,Ground,6.5,Blend,Strong,Standard,3.558221846498353
+42,8,Whole bean,8,Ethiopia,Strong,Standard,1.84687711374238
+43,1,Ground,9.5,Ethiopia,Strong,Certified,2.937613321682634
+43,2,Pods,8,Colombia,Medium,Standard,3.683131829701721
+43,3,Ground,9.5,Colombia,Strong,Standard,1.916549342015551
+43,4,Pods,8,Colombia,Strong,Certified,4.76344361719216
+43,5,Whole bean,9.5,Ethiopia,Strong,Standard,0.9880529908741191
+43,6,Pods,6.5,Ethiopia,Medium,Certified,4.484292332145405
+43,7,Whole bean,9.5,Blend,Medium,Standard,1.0193347365189014
+43,8,Pods,8,Ethiopia,Medium,Certified,3.847196735150859
+44,1,Whole bean,6.5,Colombia,Strong,Certified,3.7280179594548186
+44,2,Ground,6.5,Ethiopia,Medium,Certified,4.162677567987161
+44,3,Whole bean,9.5,Blend,Strong,Certified,2.7711187231315333
+44,4,Ground,9.5,Colombia,Strong,Standard,2.3461928633154736
+44,5,Pods,6.5,Ethiopia,Strong,Standard,5.284428598702152
+44,6,Whole bean,8,Colombia,Medium,Certified,5.395035046781296
+44,7,Pods,8,Colombia,Strong,Standard,3.4904234991936502
+44,8,Pods,9.5,Blend,Medium,Standard,2.279823382101225
+45,1,Ground,9.5,Ethiopia,Strong,Standard,1.8482035389586613
+45,2,Pods,8,Colombia,Strong,Certified,5.12306770081596
+45,3,Ground,6.5,Colombia,Strong,Standard,2.7573285752517807
+45,4,Ground,6.5,Colombia,Medium,Standard,4.525962104233846
+45,5,Ground,9.5,Colombia,Strong,Certified,3.404178841247756
+45,6,Whole bean,9.5,Ethiopia,Strong,Standard,1.5665666152190614
+45,7,Pods,6.5,Ethiopia,Strong,Certified,4.570946211859892
+45,8,Pods,8,Ethiopia,Medium,Certified,5.147606412265357
+46,1,Pods,8,Blend,Strong,Certified,3.3536470508079552
+46,2,Pods,8,Ethiopia,Strong,Certified,5.033229562487657
+46,3,Ground,6.5,Ethiopia,Medium,Certified,3.559444554624696
+46,4,Pods,8,Ethiopia,Medium,Standard,4.550008552521232
+46,5,Whole bean,8,Colombia,Medium,Certified,2.0864516760793124
+46,6,Ground,9.5,Ethiopia,Medium,Certified,2.1898129557502073
+46,7,Ground,6.5,Blend,Strong,Standard,3.6996604876119257
+46,8,Whole bean,6.5,Colombia,Strong,Standard,3.8586072502875375
+47,1,Whole bean,6.5,Blend,Strong,Certified,3.7945019723796656
+47,2,Pods,8,Colombia,Medium,Certified,3.3045049858248654
+47,3,Pods,8,Ethiopia,Medium,Certified,2.6698984177664853
+47,4,Whole bean,8,Ethiopia,Strong,Standard,1.6942963379309122
+47,5,Pods,8,Colombia,Medium,Certified,4.9625709383710195
+47,6,Ground,6.5,Blend,Strong,Certified,2.0286530459216134
+47,7,Ground,6.5,Blend,Medium,Certified,5.153551830228686
+47,8,Pods,8,Blend,Strong,Certified,4.8511601336101595
+48,1,Pods,8,Colombia,Strong,Certified,5.329963433302931
+48,2,Whole bean,8,Ethiopia,Medium,Standard,2.0450342466477496
+48,3,Pods,8,Colombia,Strong,Certified,5.170296743952281
+48,4,Whole bean,8,Blend,Medium,Certified,3.322467829184487
+48,5,Ground,9.5,Colombia,Medium,Certified,2.0849709277173876
+48,6,Whole bean,9.5,Blend,Strong,Certified,0.9155696356418899
+48,7,Ground,8,Colombia,Medium,Certified,1.6783633167740089
+48,8,Ground,6.5,Ethiopia,Medium,Certified,4.022440981571908
+49,1,Pods,8,Blend,Strong,Certified,2.8360413022681596
+49,2,Whole bean,8,Blend,Strong,Certified,3.1242193816218604
+49,3,Ground,8,Colombia,Strong,Certified,4.068201387605571
+49,4,Pods,9.5,Blend,Strong,Certified,4.945416586879188
+49,5,Pods,6.5,Ethiopia,Medium,Certified,4.2126036565574205
+49,6,Pods,9.5,Blend,Strong,Certified,5.326425378793546
+49,7,Ground,8,Blend,Strong,Certified,3.875644299727463
+49,8,Pods,6.5,Blend,Strong,Standard,3.832014248223115
+50,1,Whole bean,6.5,Ethiopia,Strong,Certified,4.336461224796672
+50,2,Pods,9.5,Colombia,Medium,Standard,3.7110955546816085
+50,3,Ground,9.5,Ethiopia,Medium,Standard,1.393277417707727
+50,4,Whole bean,8,Colombia,Strong,Certified,3.073280033080088
+50,5,Whole bean,9.5,Blend,Medium,Standard,1.2325493144453095
+50,6,Ground,8,Colombia,Medium,Standard,2.4406963209115786
+50,7,Pods,8,Blend,Medium,Standard,4.0922274865792945
+50,8,Ground,9.5,Ethiopia,Strong,Certified,3.0597018834827674
+51,1,Ground,9.5,Blend,Strong,Standard,1.7188465157114912
+51,2,Ground,8,Ethiopia,Strong,Certified,2.336587776445728
+51,3,Whole bean,6.5,Ethiopia,Medium,Certified,3.392520917393194
+51,4,Whole bean,6.5,Ethiopia,Strong,Certified,4.164702560664241
+51,5,Whole bean,9.5,Ethiopia,Medium,Standard,0.48165144096865065
+51,6,Pods,8,Blend,Medium,Standard,3.220522994590741
+51,7,Whole bean,9.5,Colombia,Strong,Certified,1.1483650775404564
+51,8,Ground,6.5,Ethiopia,Medium,Standard,4.8603914696995165
+52,1,Whole bean,9.5,Blend,Strong,Standard,1.4193873358190647
+52,2,Ground,8,Ethiopia,Strong,Certified,3.424258640838741
+52,3,Pods,6.5,Colombia,Medium,Certified,6.100281654063943
+52,4,Ground,6.5,Colombia,Medium,Certified,4.52649087423384
+52,5,Pods,8,Ethiopia,Strong,Certified,5.37101918471003
+52,6,Ground,6.5,Colombia,Medium,Certified,4.168569052055033
+52,7,Pods,9.5,Ethiopia,Strong,Certified,4.640546425731324
+52,8,Ground,8,Blend,Medium,Standard,2.864095926092033
+53,1,Whole bean,6.5,Blend,Medium,Certified,2.7247436643047687
+53,2,Ground,8,Ethiopia,Medium,Certified,3.6362271546518308
+53,3,Ground,8,Colombia,Strong,Standard,3.3530865110162544
+53,4,Whole bean,6.5,Blend,Strong,Standard,2.715299450621465
+53,5,Pods,6.5,Colombia,Strong,Certified,4.984405553145565
+53,6,Ground,9.5,Blend,Strong,Certified,1.9324379680289585
+53,7,Ground,6.5,Blend,Strong,Standard,3.850752911542134
+53,8,Pods,8,Blend,Medium,Certified,4.049832749726213
+54,1,Ground,6.5,Blend,Strong,Standard,2.6008846179536516
+54,2,Ground,6.5,Colombia,Strong,Standard,3.682029011850005
+54,3,Pods,6.5,Blend,Strong,Certified,5.674922461496889
+54,4,Whole bean,6.5,Colombia,Medium,Standard,3.598747672709524
+54,5,Ground,8,Ethiopia,Strong,Standard,2.845194904984423
+54,6,Pods,9.5,Ethiopia,Strong,Standard,3.270472026827225
+54,7,Ground,9.5,Blend,Medium,Certified,2.2700682411678734
+54,8,Pods,8,Ethiopia,Strong,Standard,4.359931344751942
+55,1,Pods,9.5,Colombia,Medium,Certified,4.226758697130774
+55,2,Whole bean,8,Ethiopia,Medium,Standard,1.374156964764806
+55,3,Pods,6.5,Blend,Medium,Certified,6.135311863030919
+55,4,Pods,6.5,Blend,Strong,Certified,3.456775610538081
+55,5,Ground,9.5,Ethiopia,Medium,Certified,4.452515550575146
+55,6,Ground,6.5,Colombia,Strong,Standard,3.419924436832541
+55,7,Pods,6.5,Blend,Strong,Certified,6.39023190357394
+55,8,Ground,6.5,Blend,Medium,Standard,3.9293557090087465
+56,1,Pods,6.5,Blend,Medium,Certified,3.582291209268575
+56,2,Pods,8,Colombia,Strong,Certified,4.030889699270227
+56,3,Whole bean,6.5,Blend,Strong,Certified,3.9466540933688536
+56,4,Ground,8,Blend,Strong,Standard,2.9811533545244537
+56,5,Whole bean,8,Ethiopia,Medium,Certified,4.305623042775274
+56,6,Ground,8,Ethiopia,Strong,Standard,2.122009699541354
+56,7,Ground,6.5,Ethiopia,Strong,Certified,2.5423959365807622
+56,8,Pods,8,Colombia,Medium,Standard,3.3259521071265583
+57,1,Whole bean,8,Blend,Strong,Certified,3.949842956631377
+57,2,Ground,9.5,Ethiopia,Medium,Certified,1.563237529632782
+57,3,Whole bean,8,Blend,Strong,Certified,3.206691392239859
+57,4,Pods,8,Colombia,Strong,Certified,3.372670061033441
+57,5,Pods,9.5,Ethiopia,Medium,Standard,3.11237439374616
+57,6,Whole bean,9.5,Colombia,Medium,Certified,1.6861274610662336
+57,7,Ground,9.5,Ethiopia,Strong,Certified,1.5531978881941872
+57,8,Whole bean,9.5,Ethiopia,Strong,Certified,1.9622493149406735
+58,1,Ground,8,Ethiopia,Medium,Certified,2.310661314452331
+58,2,Whole bean,9.5,Colombia,Strong,Standard,2.1119471517054476
+58,3,Pods,6.5,Ethiopia,Medium,Certified,4.827174669693088
+58,4,Whole bean,9.5,Ethiopia,Medium,Certified,1.5131624432251878
+58,5,Pods,6.5,Blend,Medium,Certified,4.582672509198836
+58,6,Pods,6.5,Blend,Medium,Standard,4.6790629196471505
+58,7,Pods,6.5,Colombia,Strong,Standard,5.115952763066178
+58,8,Pods,6.5,Blend,Strong,Certified,3.857348873566215
+59,1,Pods,8,Blend,Strong,Standard,3.8408911418422185
+59,2,Ground,8,Ethiopia,Strong,Standard,2.2980338583620012
+59,3,Pods,6.5,Ethiopia,Strong,Certified,4.59238368532633
+59,4,Whole bean,6.5,Ethiopia,Medium,Standard,4.312616861466131
+59,5,Pods,9.5,Blend,Strong,Certified,2.6948275247008313
+59,6,Whole bean,9.5,Ethiopia,Strong,Standard,1.9457359951095323
+59,7,Whole bean,9.5,Ethiopia,Strong,Standard,2.4008508553497703
+59,8,Ground,8,Blend,Strong,Certified,3.9292283465651923
+60,1,Pods,6.5,Colombia,Medium,Certified,5.500998403036961
+60,2,Whole bean,6.5,Blend,Strong,Standard,2.3662527053986633
+60,3,Pods,8,Ethiopia,Strong,Standard,4.174934248733592
+60,4,Whole bean,8,Blend,Strong,Standard,1.5790855292705401
+60,5,Pods,6.5,Blend,Strong,Standard,1.4103842651441423
+60,6,Whole bean,6.5,Blend,Strong,Certified,4.935356114950547
+60,7,Ground,8,Blend,Strong,Certified,4.649934769312798
+60,8,Ground,6.5,Blend,Medium,Certified,2.8762260999806326
+61,1,Whole bean,8,Blend,Medium,Standard,2.7521724360610818
+61,2,Whole bean,8,Colombia,Strong,Certified,2.2349465204770045
+61,3,Ground,6.5,Ethiopia,Strong,Standard,2.750073108511905
+61,4,Pods,9.5,Ethiopia,Strong,Standard,1.7005131336216637
+61,5,Ground,6.5,Blend,Medium,Standard,2.4955756691681272
+61,6,Pods,8,Ethiopia,Medium,Standard,4.594823570715183
+61,7,Pods,9.5,Colombia,Medium,Standard,1.9390574938167826
+61,8,Whole bean,8,Colombia,Medium,Certified,0.9138007808116058
+62,1,Whole bean,8,Blend,Strong,Certified,3.764426106299479
+62,2,Pods,9.5,Colombia,Strong,Certified,4.760195935975144
+62,3,Pods,9.5,Blend,Medium,Standard,2.0888074783978645
+62,4,Ground,6.5,Ethiopia,Strong,Certified,4.245350786821148
+62,5,Ground,9.5,Colombia,Strong,Certified,1.6120134157828279
+62,6,Whole bean,8,Blend,Medium,Standard,1.9465236745047159
+62,7,Pods,9.5,Blend,Strong,Certified,3.582398434999716
+62,8,Pods,8,Blend,Strong,Standard,3.265377738022158
+63,1,Ground,8,Colombia,Strong,Standard,4.002268608472612
+63,2,Whole bean,6.5,Blend,Strong,Standard,5.254909742127967
+63,3,Whole bean,6.5,Blend,Strong,Certified,5.099758792284751
+63,4,Pods,8,Colombia,Strong,Certified,4.127782498455629
+63,5,Pods,8,Ethiopia,Medium,Standard,4.1686941372981625
+63,6,Ground,8,Blend,Strong,Certified,2.4386549965146207
+63,7,Ground,6.5,Blend,Medium,Standard,3.00442789737968
+63,8,Ground,8,Colombia,Strong,Standard,2.8784923243484175
+64,1,Ground,8,Blend,Strong,Certified,3.3433367319582548
+64,2,Ground,8,Ethiopia,Strong,Certified,2.7948127503490645
+64,3,Ground,6.5,Colombia,Medium,Standard,4.115805310121668
+64,4,Pods,8,Colombia,Medium,Certified,4.576758964181309
+64,5,Ground,6.5,Colombia,Strong,Certified,4.364852907656318
+64,6,Ground,8,Ethiopia,Medium,Standard,2.1742111768540395
+64,7,Pods,6.5,Blend,Medium,Standard,3.82142506830854
+64,8,Pods,9.5,Colombia,Strong,Certified,4.283859566336185
+65,1,Pods,8,Ethiopia,Medium,Standard,3.381879051245088
+65,2,Pods,8,Colombia,Strong,Standard,3.9538588588734926
+65,3,Ground,6.5,Ethiopia,Medium,Certified,2.262481837989001
+65,4,Ground,8,Colombia,Strong,Certified,4.173743533951038
+65,5,Whole bean,8,Ethiopia,Medium,Certified,1.656786757420699
+65,6,Pods,6.5,Ethiopia,Medium,Standard,3.933336099118013
+65,7,Pods,9.5,Blend,Strong,Certified,3.9288971642070503
+65,8,Whole bean,6.5,Colombia,Strong,Standard,3.676277955878888
+66,1,Ground,8,Ethiopia,Medium,Standard,3.327538008888356
+66,2,Whole bean,9.5,Ethiopia,Medium,Standard,0.8868207187593133
+66,3,Pods,9.5,Ethiopia,Strong,Certified,3.743230192632083
+66,4,Ground,8,Ethiopia,Medium,Certified,2.581197188581606
+66,5,Ground,9.5,Colombia,Medium,Certified,1.6333381669731235
+66,6,Pods,9.5,Blend,Strong,Certified,3.061545406586236
+66,7,Whole bean,8,Ethiopia,Medium,Standard,2.857225152767109
+66,8,Pods,6.5,Ethiopia,Strong,Standard,4.775970541200424
+67,1,Pods,8,Ethiopia,Strong,Standard,3.7193677364616016
+67,2,Pods,6.5,Colombia,Medium,Certified,3.698988970718729
+67,3,Pods,9.5,Blend,Strong,Standard,3.699655949999942
+67,4,Ground,8,Colombia,Medium,Standard,1.8114554061412649
+67,5,Ground,6.5,Ethiopia,Strong,Standard,2.9620201740116596
+67,6,Whole bean,8,Ethiopia,Medium,Standard,1.6762219370180955
+67,7,Ground,8,Colombia,Medium,Standard,1.9192140222638203
+67,8,Ground,9.5,Ethiopia,Strong,Standard,3.0455112425671995
+68,1,Whole bean,6.5,Colombia,Strong,Standard,2.348477211190181
+68,2,Pods,9.5,Blend,Medium,Certified,2.8388539202938152
+68,3,Pods,9.5,Ethiopia,Strong,Standard,4.574515710261593
+68,4,Whole bean,9.5,Ethiopia,Strong,Standard,0.8556562516630195
+68,5,Ground,8,Blend,Medium,Certified,3.1463921399457444
+68,6,Ground,6.5,Ethiopia,Medium,Standard,4.166255945188192
+68,7,Whole bean,9.5,Ethiopia,Strong,Certified,1.7189361785995871
+68,8,Ground,8,Blend,Medium,Certified,2.4761296437682865
+69,1,Whole bean,6.5,Colombia,Medium,Standard,2.7091650789223123
+69,2,Pods,9.5,Colombia,Strong,Standard,3.173264597966733
+69,3,Whole bean,8,Colombia,Strong,Certified,2.199025648363797
+69,4,Ground,8,Blend,Strong,Standard,2.3019328790654923
+69,5,Whole bean,9.5,Colombia,Medium,Standard,2.0281737861371694
+69,6,Pods,8,Ethiopia,Strong,Certified,3.233313047105036
+69,7,Whole bean,6.5,Colombia,Medium,Standard,2.241304761900381
+69,8,Pods,9.5,Colombia,Strong,Certified,3.890368579695404
+70,1,Ground,6.5,Colombia,Strong,Certified,2.8048977412911063
+70,2,Pods,9.5,Colombia,Medium,Certified,3.7354443496603986
+70,3,Ground,9.5,Blend,Medium,Standard,1.4121673706556166
+70,4,Ground,8,Blend,Medium,Certified,2.6470709833164165
+70,5,Pods,9.5,Colombia,Strong,Standard,1.702720644693649
+70,6,Ground,6.5,Blend,Medium,Certified,3.5449597699399895
+70,7,Pods,9.5,Colombia,Medium,Standard,4.2732710486234184
+70,8,Whole bean,8,Ethiopia,Medium,Standard,2.7521555631369345
+71,1,Pods,6.5,Colombia,Medium,Certified,3.956714258930023
+71,2,Pods,8,Colombia,Medium,Standard,3.197139959050155
+71,3,Ground,6.5,Blend,Strong,Standard,3.405537666553633
+71,4,Whole bean,9.5,Blend,Strong,Certified,1.8858298191174694
+71,5,Ground,8,Blend,Strong,Certified,2.6903557564009213
+71,6,Whole bean,9.5,Blend,Strong,Certified,1.8187801638590055
+71,7,Whole bean,8,Blend,Strong,Certified,2.6176982234855686
+71,8,Pods,8,Blend,Strong,Standard,1.262107900494497
+72,1,Whole bean,6.5,Blend,Medium,Certified,4.16216119338454
+72,2,Ground,8,Colombia,Strong,Standard,3.249819671212149
+72,3,Ground,6.5,Colombia,Strong,Certified,2.951746530049755
+72,4,Ground,9.5,Blend,Medium,Certified,2.404125995905587
+72,5,Whole bean,9.5,Colombia,Medium,Certified,2.7344220577739184
+72,6,Whole bean,8,Colombia,Strong,Certified,3.4897904956635957
+72,7,Ground,6.5,Blend,Medium,Standard,3.466153188226519
+72,8,Pods,9.5,Colombia,Strong,Standard,2.7867989387073697
+73,1,Ground,8,Colombia,Medium,Standard,2.1676703257399663
+73,2,Whole bean,9.5,Ethiopia,Strong,Standard,0.964827987538315
+73,3,Ground,6.5,Ethiopia,Strong,Standard,4.514081472986339
+73,4,Whole bean,9.5,Ethiopia,Medium,Standard,1.8023000540242808
+73,5,Ground,6.5,Colombia,Strong,Certified,3.579688967140655
+73,6,Ground,8,Blend,Strong,Certified,3.8996389565558345
+73,7,Whole bean,8,Blend,Strong,Certified,1.4887403299075788
+73,8,Pods,8,Blend,Medium,Certified,4.3033180083309
+74,1,Pods,8,Blend,Strong,Certified,4.354778118466356
+74,2,Whole bean,9.5,Ethiopia,Strong,Certified,2.753915777316372
+74,3,Pods,9.5,Ethiopia,Strong,Certified,3.092937583436242
+74,4,Pods,8,Colombia,Medium,Certified,5.558516404167747
+74,5,Pods,8,Ethiopia,Strong,Standard,3.141993919143022
+74,6,Pods,8,Colombia,Strong,Certified,4.274278751422159
+74,7,Ground,6.5,Ethiopia,Medium,Certified,4.21974677878488
+74,8,Pods,6.5,Ethiopia,Medium,Standard,4.678375724925319
+75,1,Ground,8,Colombia,Strong,Standard,2.739684936544658
+75,2,Ground,6.5,Blend,Medium,Standard,2.4668252849103687
+75,3,Whole bean,6.5,Colombia,Strong,Certified,3.674435630708294
+75,4,Pods,8,Colombia,Medium,Standard,3.888854184544409
+75,5,Ground,9.5,Blend,Strong,Certified,3.2344375208037226
+75,6,Pods,9.5,Blend,Medium,Certified,2.5944354379482846
+75,7,Pods,8,Colombia,Medium,Certified,4.057503267987579
+75,8,Whole bean,6.5,Ethiopia,Strong,Certified,3.888095921077362
+76,1,Pods,6.5,Blend,Strong,Certified,6.079814089590753
+76,2,Ground,9.5,Colombia,Strong,Standard,1.4433375463816753
+76,3,Ground,9.5,Colombia,Medium,Standard,3.006774979431802
+76,4,Whole bean,6.5,Ethiopia,Strong,Certified,2.991628302552652
+76,5,Pods,8,Blend,Strong,Certified,3.9091185157860595
+76,6,Whole bean,8,Ethiopia,Medium,Certified,2.4724316228121412
+76,7,Ground,8,Colombia,Strong,Certified,3.752430125148696
+76,8,Ground,8,Ethiopia,Strong,Certified,4.272466489238894
+77,1,Whole bean,9.5,Blend,Medium,Standard,1.0256203766011711
+77,2,Pods,6.5,Colombia,Medium,Certified,4.616723709289482
+77,3,Whole bean,6.5,Colombia,Strong,Standard,2.3012456324641226
+77,4,Whole bean,8,Ethiopia,Medium,Standard,3.5895276223945194
+77,5,Pods,6.5,Blend,Medium,Standard,4.2092249573169305
+77,6,Ground,8,Blend,Strong,Certified,2.9017491245904763
+77,7,Pods,6.5,Colombia,Medium,Standard,3.178088420444527
+77,8,Whole bean,8,Ethiopia,Strong,Certified,1.8481492536889115
+78,1,Ground,9.5,Blend,Medium,Standard,2.8550464248491254
+78,2,Whole bean,9.5,Colombia,Strong,Certified,1.509125681813166
+78,3,Whole bean,9.5,Ethiopia,Strong,Standard,2.220925003742182
+78,4,Ground,8,Colombia,Strong,Standard,3.5366852648951834
+78,5,Ground,6.5,Ethiopia,Strong,Standard,4.534524176547963
+78,6,Ground,9.5,Colombia,Medium,Standard,2.1468055231519223
+78,7,Whole bean,8,Colombia,Medium,Certified,2.5363478260725265
+78,8,Whole bean,8,Colombia,Medium,Certified,1.7747375425064003
+79,1,Whole bean,9.5,Colombia,Strong,Certified,2.557353767472373
+79,2,Ground,8,Colombia,Medium,Standard,3.0409615815151865
+79,3,Pods,8,Colombia,Strong,Certified,4.036492167035507
+79,4,Whole bean,6.5,Colombia,Strong,Certified,2.059733329171935
+79,5,Whole bean,8,Colombia,Strong,Standard,0.9820179372258364
+79,6,Whole bean,8,Colombia,Strong,Standard,0.8548961615100032
+79,7,Pods,6.5,Blend,Strong,Certified,6.513154936636168
+79,8,Pods,6.5,Colombia,Medium,Standard,5.20385481671153
+80,1,Ground,9.5,Blend,Strong,Standard,2.1227811017570977
+80,2,Ground,9.5,Blend,Strong,Standard,1.4031607727622584
+80,3,Pods,8,Ethiopia,Medium,Certified,2.936220989732824
+80,4,Pods,9.5,Ethiopia,Medium,Standard,2.786662147127891
+80,5,Whole bean,9.5,Colombia,Medium,Standard,0.6685220660390205
+80,6,Whole bean,9.5,Ethiopia,Medium,Standard,0.18529476856703553
+80,7,Pods,8,Blend,Medium,Standard,3.519684243715934
+80,8,Ground,8,Colombia,Medium,Certified,2.3754189075192187
+81,1,Pods,8,Ethiopia,Medium,Standard,2.7563106871743184
+81,2,Ground,8,Colombia,Strong,Certified,5.039379621122005
+81,3,Whole bean,9.5,Colombia,Strong,Standard,2.465123910069127
+81,4,Ground,8,Blend,Strong,Standard,3.082935910977274
+81,5,Pods,8,Colombia,Medium,Certified,4.785369533255483
+81,6,Pods,9.5,Colombia,Medium,Certified,4.041839164292336
+81,7,Pods,6.5,Colombia,Medium,Standard,3.0139377756552803
+81,8,Ground,9.5,Blend,Strong,Standard,1.8581632937483636
+82,1,Ground,6.5,Colombia,Strong,Certified,4.46786437492548
+82,2,Whole bean,9.5,Blend,Strong,Standard,2.0594125529549023
+82,3,Whole bean,6.5,Colombia,Medium,Certified,2.5244386289737686
+82,4,Whole bean,6.5,Colombia,Strong,Certified,3.5196494964201834
+82,5,Whole bean,6.5,Colombia,Medium,Standard,2.846541964875124
+82,6,Ground,6.5,Colombia,Medium,Certified,4.310457131587073
+82,7,Ground,6.5,Colombia,Strong,Standard,3.766249873009394
+82,8,Ground,8,Blend,Strong,Standard,1.5538954723739646
+83,1,Whole bean,8,Colombia,Strong,Certified,0.6489743796583172
+83,2,Pods,6.5,Blend,Medium,Certified,5.338750544135692
+83,3,Ground,8,Blend,Strong,Standard,3.330322801331692
+83,4,Whole bean,9.5,Colombia,Strong,Standard,0.7490636009502556
+83,5,Pods,8,Blend,Strong,Standard,2.9881974208469715
+83,6,Whole bean,9.5,Ethiopia,Medium,Certified,1.4561599844773372
+83,7,Whole bean,9.5,Colombia,Strong,Certified,1.2696685854882719
+83,8,Ground,8,Blend,Medium,Certified,2.0649335413677905
+84,1,Ground,6.5,Colombia,Medium,Certified,3.996112518928171
+84,2,Pods,6.5,Blend,Strong,Standard,3.3508039931965703
+84,3,Ground,9.5,Ethiopia,Medium,Standard,-0.07382939383402842
+84,4,Whole bean,9.5,Blend,Medium,Standard,0.5591144893951547
+84,5,Whole bean,9.5,Colombia,Medium,Certified,1.7476310761402742
+84,6,Ground,6.5,Ethiopia,Medium,Certified,4.09178204441358
+84,7,Pods,6.5,Colombia,Medium,Standard,3.6263744770937385
+84,8,Ground,8,Blend,Medium,Certified,3.2012631085169305
+85,1,Pods,9.5,Ethiopia,Strong,Certified,4.113347119680485
+85,2,Ground,9.5,Colombia,Medium,Standard,2.487405005266556
+85,3,Whole bean,9.5,Colombia,Strong,Certified,1.4120551578150096
+85,4,Ground,8,Ethiopia,Strong,Standard,3.605552315834439
+85,5,Whole bean,9.5,Colombia,Medium,Standard,-0.08903859519220081
+85,6,Whole bean,9.5,Colombia,Medium,Certified,2.345610233032336
+85,7,Whole bean,6.5,Blend,Strong,Standard,3.183631676522533
+85,8,Pods,6.5,Colombia,Strong,Certified,4.258703653229981
+86,1,Whole bean,9.5,Ethiopia,Medium,Standard,0.9285258627407222
+86,2,Ground,9.5,Ethiopia,Medium,Certified,2.6754049079594906
+86,3,Pods,6.5,Blend,Strong,Standard,3.458058999913908
+86,4,Pods,9.5,Colombia,Strong,Certified,1.939965145427756
+86,5,Ground,6.5,Colombia,Strong,Certified,5.789302517185382
+86,6,Pods,9.5,Ethiopia,Strong,Standard,2.8535036773145053
+86,7,Ground,6.5,Colombia,Strong,Standard,5.4318385993383425
+86,8,Whole bean,8,Ethiopia,Medium,Certified,3.324613711955429
+87,1,Whole bean,8,Blend,Strong,Certified,2.7077517148285004
+87,2,Whole bean,9.5,Blend,Medium,Standard,2.2476260921593822
+87,3,Ground,9.5,Colombia,Medium,Certified,2.7362625865486594
+87,4,Pods,8,Ethiopia,Strong,Certified,4.320571353121286
+87,5,Whole bean,6.5,Colombia,Medium,Standard,2.341019163986159
+87,6,Whole bean,6.5,Blend,Strong,Standard,3.540184139594328
+87,7,Whole bean,6.5,Blend,Medium,Certified,3.388314675185943
+87,8,Ground,8,Colombia,Medium,Standard,2.2687294909864795
+88,1,Ground,6.5,Ethiopia,Strong,Standard,3.494872328657951
+88,2,Pods,6.5,Blend,Strong,Certified,5.350887749248358
+88,3,Whole bean,6.5,Colombia,Strong,Standard,4.774733690039415
+88,4,Pods,6.5,Colombia,Medium,Standard,3.63749450653653
+88,5,Pods,9.5,Ethiopia,Medium,Certified,4.05992716138989
+88,6,Ground,8,Colombia,Medium,Certified,2.629413253513505
+88,7,Pods,9.5,Colombia,Medium,Certified,2.4724241587366556
+88,8,Pods,8,Ethiopia,Strong,Certified,3.4172971546354693
+89,1,Whole bean,9.5,Ethiopia,Medium,Standard,0.4184634938941828
+89,2,Pods,8,Colombia,Medium,Standard,4.6268039446092075
+89,3,Ground,8,Blend,Medium,Certified,2.2174966741078204
+89,4,Pods,9.5,Blend,Medium,Certified,2.5211324931364154
+89,5,Ground,8,Colombia,Medium,Certified,3.3400711338745435
+89,6,Whole bean,9.5,Blend,Strong,Certified,2.186309652096998
+89,7,Ground,8,Colombia,Medium,Standard,3.602304127732144
+89,8,Ground,9.5,Blend,Strong,Certified,3.3570941411793083
+90,1,Ground,6.5,Ethiopia,Medium,Certified,4.466037427291939
+90,2,Whole bean,9.5,Blend,Medium,Certified,0.9904771207976054
+90,3,Whole bean,8,Colombia,Strong,Certified,2.2973982144409626
+90,4,Pods,6.5,Ethiopia,Medium,Certified,3.3854355036280435
+90,5,Whole bean,6.5,Ethiopia,Strong,Standard,2.6722387829808154
+90,6,Ground,6.5,Colombia,Strong,Certified,4.802706407983392
+90,7,Whole bean,6.5,Ethiopia,Medium,Certified,4.15335276159467
+90,8,Pods,6.5,Blend,Strong,Standard,4.548382294838044
+91,1,Whole bean,8,Ethiopia,Medium,Certified,1.743154290090433
+91,2,Whole bean,9.5,Ethiopia,Strong,Certified,1.7706102625132212
+91,3,Ground,9.5,Colombia,Strong,Standard,1.3358441274792572
+91,4,Ground,6.5,Ethiopia,Medium,Certified,4.792364453835576
+91,5,Pods,9.5,Blend,Medium,Standard,3.9027952169670277
+91,6,Pods,9.5,Colombia,Medium,Certified,3.06856214903427
+91,7,Ground,8,Ethiopia,Strong,Standard,4.920923437872139
+91,8,Whole bean,8,Blend,Medium,Certified,2.112514069721042
+92,1,Ground,6.5,Colombia,Medium,Certified,3.8038945674343827
+92,2,Pods,6.5,Blend,Strong,Standard,3.3328163426319386
+92,3,Ground,6.5,Colombia,Strong,Standard,4.28076083694134
+92,4,Ground,9.5,Colombia,Strong,Standard,1.6590451375348985
+92,5,Pods,9.5,Colombia,Strong,Certified,1.9450706115847751
+92,6,Ground,8,Ethiopia,Strong,Standard,2.1332705116174018
+92,7,Whole bean,6.5,Ethiopia,Medium,Standard,2.5832678410079475
+92,8,Pods,6.5,Ethiopia,Medium,Certified,7.978126939632466
+93,1,Pods,8,Blend,Medium,Certified,3.886108085012358
+93,2,Pods,9.5,Colombia,Medium,Standard,1.8895699037032254
+93,3,Whole bean,9.5,Blend,Medium,Certified,2.161685159728873
+93,4,Whole bean,8,Ethiopia,Strong,Certified,3.62352142663295
+93,5,Ground,9.5,Colombia,Medium,Standard,2.44754902850059
+93,6,Ground,9.5,Colombia,Strong,Standard,2.391589626345888
+93,7,Whole bean,8,Ethiopia,Medium,Standard,1.176895240236509
+93,8,Pods,8,Ethiopia,Strong,Standard,3.7398347745784157
+94,1,Whole bean,8,Colombia,Medium,Certified,3.0426323111926785
+94,2,Ground,6.5,Blend,Medium,Standard,4.514697240212295
+94,3,Pods,6.5,Ethiopia,Strong,Standard,5.102761844070435
+94,4,Pods,8,Ethiopia,Strong,Standard,3.9939894272241006
+94,5,Pods,9.5,Ethiopia,Strong,Certified,4.090487274993334
+94,6,Whole bean,8,Ethiopia,Strong,Certified,1.7141744138483055
+94,7,Ground,8,Blend,Strong,Standard,0.7631390385715
+94,8,Pods,8,Ethiopia,Strong,Standard,3.452030533829212
+95,1,Ground,9.5,Colombia,Medium,Certified,2.8545561573619995
+95,2,Whole bean,6.5,Ethiopia,Strong,Certified,4.204541010259464
+95,3,Whole bean,9.5,Colombia,Strong,Certified,2.156578977843708
+95,4,Ground,8,Blend,Strong,Standard,3.522921200265602
+95,5,Whole bean,8,Colombia,Strong,Certified,2.3592832665313632
+95,6,Pods,6.5,Blend,Medium,Certified,4.630646582059166
+95,7,Whole bean,6.5,Ethiopia,Medium,Certified,2.5897486521466924
+95,8,Ground,9.5,Blend,Strong,Standard,1.1542649454491554
+96,1,Pods,6.5,Colombia,Medium,Standard,4.843821742007934
+96,2,Ground,6.5,Blend,Strong,Certified,4.539070430778188
+96,3,Pods,6.5,Ethiopia,Medium,Standard,5.104213029309245
+96,4,Whole bean,8,Ethiopia,Medium,Standard,2.047290181110258
+96,5,Ground,8,Blend,Strong,Certified,4.405074659522292
+96,6,Pods,9.5,Blend,Medium,Certified,1.9975446854650236
+96,7,Ground,6.5,Ethiopia,Strong,Certified,4.4008202820695175
+96,8,Ground,9.5,Colombia,Strong,Certified,2.2555886355406587
+97,1,Whole bean,8,Ethiopia,Medium,Certified,1.3539207765914991
+97,2,Whole bean,6.5,Blend,Strong,Standard,2.6713812986490617
+97,3,Whole bean,9.5,Blend,Medium,Standard,1.2104920488504074
+97,4,Whole bean,8,Blend,Strong,Standard,1.1837100640745504
+97,5,Ground,9.5,Blend,Strong,Certified,2.3069098973690365
+97,6,Ground,9.5,Blend,Strong,Standard,2.362121402519401
+97,7,Whole bean,6.5,Ethiopia,Strong,Standard,3.6501949848347817
+97,8,Whole bean,9.5,Colombia,Strong,Certified,0.4738424489939308
+98,1,Pods,6.5,Colombia,Medium,Standard,4.587456530694071
+98,2,Pods,8,Ethiopia,Strong,Standard,3.4158006282648157
+98,3,Ground,9.5,Ethiopia,Medium,Certified,3.170702161844476
+98,4,Ground,8,Blend,Medium,Standard,1.831234195649249
+98,5,Ground,9.5,Ethiopia,Strong,Certified,3.2063956470013997
+98,6,Pods,6.5,Ethiopia,Medium,Standard,5.084200638081825
+98,7,Whole bean,6.5,Blend,Strong,Certified,3.9105397511258
+98,8,Whole bean,8,Blend,Medium,Standard,1.173713349397175
+99,1,Whole bean,8,Colombia,Strong,Standard,1.4911811743159917
+99,2,Pods,8,Ethiopia,Strong,Standard,3.751451919088964
+99,3,Pods,6.5,Ethiopia,Strong,Certified,5.08101769706702
+99,4,Pods,8,Ethiopia,Strong,Standard,3.074278829710651
+99,5,Whole bean,6.5,Blend,Strong,Certified,4.324658356850646
+99,6,Ground,6.5,Ethiopia,Medium,Certified,4.271133443226637
+99,7,Ground,6.5,Blend,Medium,Standard,4.46344692104231
+99,8,Pods,9.5,Colombia,Medium,Standard,1.7240369000994349
+100,1,Whole bean,8,Blend,Strong,Standard,0.8232495935200204
+100,2,Ground,6.5,Ethiopia,Strong,Standard,3.7496984666469393
+100,3,Ground,8,Blend,Strong,Certified,2.552073877169038
+100,4,Ground,6.5,Blend,Medium,Certified,3.651106995295419
+100,5,Ground,9.5,Colombia,Medium,Certified,2.571927361044034
+100,6,Pods,9.5,Colombia,Strong,Standard,2.462195269692981
+100,7,Whole bean,9.5,Colombia,Strong,Certified,2.865722271160036
+100,8,Pods,6.5,Ethiopia,Strong,Standard,4.328497777530456
+101,1,Whole bean,9.5,Ethiopia,Strong,Certified,3.1929370180092302
+101,2,Whole bean,6.5,Blend,Medium,Certified,3.3200222695874118
+101,3,Whole bean,9.5,Colombia,Medium,Certified,1.7844248908421967
+101,4,Whole bean,8,Blend,Strong,Standard,0.8439436107711398
+101,5,Whole bean,9.5,Colombia,Medium,Standard,1.76380767429595
+101,6,Whole bean,9.5,Blend,Strong,Certified,1.7301946940003294
+101,7,Ground,9.5,Colombia,Medium,Standard,1.117217456837158
+101,8,Pods,8,Blend,Strong,Standard,2.7262088957829653
+102,1,Pods,9.5,Ethiopia,Medium,Standard,2.455982741973336
+102,2,Pods,9.5,Ethiopia,Strong,Certified,2.284113892862825
+102,3,Whole bean,6.5,Blend,Strong,Standard,3.520465757190868
+102,4,Pods,9.5,Ethiopia,Strong,Certified,4.103962991560455
+102,5,Ground,8,Blend,Medium,Certified,4.538233703567924
+102,6,Whole bean,9.5,Blend,Medium,Certified,1.3727171849415452
+102,7,Whole bean,6.5,Blend,Medium,Certified,1.8161992319319535
+102,8,Ground,8,Colombia,Medium,Standard,2.5491212803404273
+103,1,Whole bean,6.5,Blend,Strong,Standard,3.2990328836071665
+103,2,Whole bean,6.5,Ethiopia,Medium,Standard,2.8893210688836097
+103,3,Pods,6.5,Blend,Medium,Certified,4.354116669281231
+103,4,Ground,6.5,Ethiopia,Medium,Standard,3.6091718630859786
+103,5,Whole bean,8,Blend,Medium,Standard,2.55637488941652
+103,6,Ground,8,Blend,Medium,Certified,1.47131592644135
+103,7,Ground,8,Colombia,Strong,Standard,2.5050175551037013
+103,8,Whole bean,6.5,Colombia,Strong,Standard,2.7765969041398817
+104,1,Ground,9.5,Ethiopia,Strong,Standard,1.542408919164799
+104,2,Whole bean,9.5,Blend,Strong,Standard,1.3843983366675723
+104,3,Whole bean,8,Blend,Strong,Standard,2.914045290284358
+104,4,Ground,6.5,Colombia,Strong,Standard,3.9630106724406438
+104,5,Whole bean,9.5,Ethiopia,Medium,Certified,2.8771358059800836
+104,6,Pods,6.5,Ethiopia,Strong,Standard,3.5194425653793924
+104,7,Pods,9.5,Colombia,Medium,Standard,2.1668940609707805
+104,8,Whole bean,8,Blend,Strong,Certified,3.2289118709493163
+105,1,Whole bean,6.5,Blend,Strong,Certified,4.345906354019805
+105,2,Ground,9.5,Ethiopia,Medium,Standard,1.633375312585796
+105,3,Whole bean,6.5,Blend,Medium,Certified,3.865226295351316
+105,4,Ground,9.5,Blend,Strong,Standard,2.36603338593153
+105,5,Whole bean,8,Blend,Medium,Certified,2.949887170796556
+105,6,Whole bean,8,Blend,Medium,Certified,2.999793879816184
+105,7,Pods,9.5,Ethiopia,Strong,Certified,3.6854554671308746
+105,8,Pods,6.5,Colombia,Strong,Certified,4.693191365139861
+106,1,Ground,8,Colombia,Medium,Standard,0.9891641041518209
+106,2,Whole bean,9.5,Colombia,Medium,Standard,1.973220071844929
+106,3,Whole bean,8,Blend,Strong,Certified,4.036274138151265
+106,4,Pods,9.5,Blend,Medium,Standard,3.090573342845574
+106,5,Ground,8,Blend,Strong,Standard,2.854098299763871
+106,6,Ground,8,Blend,Strong,Standard,1.1183028115578033
+106,7,Pods,6.5,Ethiopia,Medium,Standard,4.398718082105163
+106,8,Pods,6.5,Colombia,Strong,Certified,5.656390431249978
+107,1,Whole bean,9.5,Blend,Medium,Certified,1.9196137767522987
+107,2,Ground,6.5,Colombia,Medium,Standard,2.9100556283753964
+107,3,Pods,6.5,Blend,Strong,Certified,4.6990278615945895
+107,4,Pods,6.5,Blend,Medium,Standard,3.2018796376023655
+107,5,Pods,8,Colombia,Medium,Certified,3.5076637635795174
+107,6,Ground,9.5,Colombia,Strong,Standard,1.4311170915770877
+107,7,Whole bean,6.5,Blend,Strong,Standard,2.7991605578592895
+107,8,Ground,8,Blend,Strong,Standard,3.4434332624579973
+108,1,Pods,9.5,Blend,Medium,Standard,2.265781855565262
+108,2,Ground,8,Colombia,Strong,Certified,3.09965743459103
+108,3,Pods,6.5,Blend,Medium,Standard,3.0169179542668125
+108,4,Whole bean,6.5,Ethiopia,Strong,Standard,3.069871481622479
+108,5,Pods,9.5,Colombia,Strong,Certified,3.1171381978878
+108,6,Ground,6.5,Blend,Medium,Certified,4.215103929252335
+108,7,Whole bean,6.5,Colombia,Strong,Certified,4.999253859857221
+108,8,Pods,8,Blend,Strong,Certified,2.6709058581787914
+109,1,Whole bean,9.5,Colombia,Medium,Certified,2.2137439280692357
+109,2,Ground,6.5,Colombia,Strong,Certified,5.558200898966221
+109,3,Pods,9.5,Blend,Medium,Certified,3.9182831240926195
+109,4,Ground,6.5,Blend,Strong,Certified,3.821764195817737
+109,5,Pods,6.5,Ethiopia,Medium,Standard,3.7866154564354697
+109,6,Whole bean,6.5,Ethiopia,Medium,Certified,3.1352858022452335
+109,7,Pods,6.5,Ethiopia,Medium,Standard,4.618747034630976
+109,8,Whole bean,8,Ethiopia,Medium,Standard,3.4308943607207363
+110,1,Whole bean,6.5,Blend,Medium,Certified,3.729723414726158
+110,2,Pods,8,Ethiopia,Strong,Certified,4.932868128314128
+110,3,Pods,6.5,Colombia,Strong,Certified,6.371781189246086
+110,4,Ground,8,Colombia,Strong,Standard,4.24977874764067
+110,5,Ground,8,Blend,Medium,Standard,4.58694101890498
+110,6,Whole bean,6.5,Colombia,Strong,Certified,2.82786594756859
+110,7,Pods,6.5,Ethiopia,Strong,Standard,6.094553197700318
+110,8,Pods,8,Ethiopia,Medium,Standard,4.117255268115289
+111,1,Pods,6.5,Blend,Strong,Certified,5.03840400431286
+111,2,Whole bean,9.5,Colombia,Medium,Certified,2.103611951936011
+111,3,Whole bean,8,Ethiopia,Medium,Standard,2.3876104674709273
+111,4,Ground,9.5,Colombia,Strong,Certified,1.3569562541758504
+111,5,Pods,9.5,Colombia,Strong,Certified,3.8643047415134326
+111,6,Pods,9.5,Blend,Medium,Standard,2.4485901265859664
+111,7,Whole bean,8,Colombia,Medium,Certified,2.828922013187552
+111,8,Whole bean,9.5,Ethiopia,Strong,Standard,1.428392801912846
+112,1,Pods,8,Ethiopia,Strong,Standard,3.7294060379126406
+112,2,Whole bean,8,Blend,Strong,Standard,2.478273108728276
+112,3,Pods,9.5,Ethiopia,Medium,Certified,3.670873134035187
+112,4,Whole bean,6.5,Blend,Strong,Standard,2.023202175952878
+112,5,Whole bean,6.5,Colombia,Medium,Certified,4.630646030940258
+112,6,Ground,8,Ethiopia,Medium,Certified,4.36940706960597
+112,7,Pods,9.5,Blend,Medium,Standard,1.6409071778345081
+112,8,Pods,8,Blend,Medium,Certified,4.366054305020873
+113,1,Ground,9.5,Colombia,Strong,Certified,1.543937844153666
+113,2,Pods,8,Colombia,Strong,Standard,4.557219622486031
+113,3,Whole bean,9.5,Ethiopia,Strong,Standard,0.12958230774501356
+113,4,Pods,9.5,Blend,Medium,Certified,1.3618367338753607
+113,5,Whole bean,8,Colombia,Medium,Certified,2.9855575739129154
+113,6,Pods,8,Colombia,Medium,Certified,4.905844118667731
+113,7,Whole bean,9.5,Colombia,Medium,Standard,2.121321257992231
+113,8,Whole bean,8,Blend,Medium,Standard,2.0205377688301267
+114,1,Pods,8,Ethiopia,Medium,Standard,3.1169485767366956
+114,2,Ground,6.5,Blend,Strong,Certified,3.620861565123006
+114,3,Ground,6.5,Colombia,Strong,Standard,3.803125630246822
+114,4,Pods,6.5,Ethiopia,Strong,Standard,4.359352522046879
+114,5,Pods,8,Blend,Medium,Certified,3.605698349875346
+114,6,Ground,9.5,Ethiopia,Medium,Standard,1.1476481685012576
+114,7,Whole bean,6.5,Blend,Medium,Certified,2.3130754570257652
+114,8,Pods,9.5,Colombia,Strong,Certified,3.1971619563969096
+115,1,Pods,6.5,Colombia,Strong,Certified,3.6398870613485594
+115,2,Pods,6.5,Colombia,Strong,Standard,5.849654605729338
+115,3,Whole bean,9.5,Colombia,Medium,Standard,-0.23538471160492636
+115,4,Ground,8,Ethiopia,Medium,Certified,3.2168029280252584
+115,5,Whole bean,6.5,Colombia,Medium,Standard,2.672168099690595
+115,6,Ground,6.5,Ethiopia,Medium,Certified,3.3104216345553326
+115,7,Ground,8,Ethiopia,Medium,Standard,1.9279148812234221
+115,8,Pods,9.5,Colombia,Medium,Standard,2.3087872741852453
+116,1,Ground,9.5,Colombia,Strong,Certified,1.8712705097596278
+116,2,Whole bean,9.5,Colombia,Strong,Certified,2.0162126038114683
+116,3,Pods,8,Colombia,Medium,Standard,4.003148054947918
+116,4,Pods,6.5,Colombia,Medium,Certified,6.058592706295539
+116,5,Ground,8,Colombia,Medium,Standard,4.531889970574237
+116,6,Ground,8,Blend,Medium,Standard,2.6870715469334754
+116,7,Ground,9.5,Blend,Strong,Certified,1.8829508719984616
+116,8,Pods,6.5,Blend,Medium,Standard,2.78033463909789
+117,1,Pods,9.5,Colombia,Strong,Certified,2.4970813198212287
+117,2,Pods,8,Colombia,Medium,Certified,3.0425904483684123
+117,3,Pods,6.5,Colombia,Medium,Certified,4.102169166961749
+117,4,Ground,9.5,Colombia,Medium,Certified,3.5694366455765705
+117,5,Whole bean,9.5,Ethiopia,Medium,Standard,0.6868921050791882
+117,6,Whole bean,6.5,Blend,Medium,Standard,1.6829910492433298
+117,7,Whole bean,9.5,Blend,Medium,Certified,1.901261376453345
+117,8,Whole bean,8,Ethiopia,Medium,Standard,1.8718786192894479
+118,1,Pods,9.5,Blend,Strong,Certified,4.689246917904004
+118,2,Ground,9.5,Blend,Strong,Certified,2.587721445500057
+118,3,Pods,6.5,Colombia,Medium,Standard,5.620085009263331
+118,4,Whole bean,6.5,Colombia,Medium,Standard,2.645724833414269
+118,5,Ground,6.5,Blend,Strong,Certified,3.3711841117590127
+118,6,Pods,8,Ethiopia,Medium,Standard,2.5642735618525263
+118,7,Ground,8,Ethiopia,Strong,Certified,2.417658294893668
+118,8,Ground,8,Blend,Strong,Standard,1.7284235071963499
+119,1,Ground,9.5,Colombia,Medium,Standard,0.22918681267055097
+119,2,Whole bean,8,Colombia,Strong,Standard,2.756538512456256
+119,3,Ground,6.5,Blend,Medium,Standard,2.9194097467961164
+119,4,Ground,6.5,Blend,Medium,Standard,3.4600940450148308
+119,5,Pods,9.5,Colombia,Strong,Standard,1.9977015453323377
+119,6,Pods,9.5,Ethiopia,Medium,Certified,2.5331153119914487
+119,7,Ground,8,Ethiopia,Medium,Standard,3.1946579331290503
+119,8,Ground,8,Blend,Medium,Certified,2.9975369588962546
+120,1,Ground,9.5,Blend,Medium,Certified,2.0747544958296653
+120,2,Pods,8,Colombia,Medium,Standard,3.210219993939221
+120,3,Whole bean,9.5,Blend,Medium,Certified,0.33894076361413816
+120,4,Pods,8,Ethiopia,Medium,Certified,4.6414843560744306
+120,5,Ground,6.5,Colombia,Medium,Certified,2.9215350564312903
+120,6,Whole bean,8,Ethiopia,Medium,Certified,2.470656348552872
+120,7,Pods,9.5,Colombia,Strong,Certified,3.67842710135417
+120,8,Pods,6.5,Ethiopia,Strong,Standard,3.955723518674196
+121,1,Whole bean,8,Ethiopia,Strong,Standard,2.437382612758149
+121,2,Ground,6.5,Blend,Strong,Certified,3.099780915874729
+121,3,Ground,9.5,Ethiopia,Strong,Standard,0.8581227416990629
+121,4,Pods,9.5,Colombia,Medium,Standard,4.227382777241811
+121,5,Ground,8,Colombia,Strong,Certified,3.7475923817642505
+121,6,Ground,9.5,Blend,Strong,Standard,2.115115277573082
+121,7,Whole bean,8,Colombia,Medium,Certified,1.99316113395601
+121,8,Whole bean,9.5,Ethiopia,Strong,Standard,1.5251587830353226
+122,1,Pods,6.5,Blend,Strong,Certified,6.502788100017194
+122,2,Pods,8,Colombia,Strong,Standard,3.5884815188562267
+122,3,Ground,8,Colombia,Strong,Certified,3.418076904457591
+122,4,Pods,9.5,Colombia,Medium,Certified,4.135228146006463
+122,5,Pods,9.5,Ethiopia,Strong,Certified,4.399088042192081
+122,6,Ground,9.5,Ethiopia,Strong,Certified,4.714572818899208
+122,7,Ground,8,Colombia,Medium,Certified,4.3687197475925315
+122,8,Ground,8,Colombia,Strong,Standard,2.4768889520423953
+123,1,Ground,6.5,Blend,Medium,Certified,4.473305490579596
+123,2,Whole bean,8,Colombia,Medium,Standard,2.345677071474315
+123,3,Whole bean,6.5,Ethiopia,Strong,Certified,4.127030164366104
+123,4,Whole bean,6.5,Blend,Medium,Certified,3.8133293335551808
+123,5,Pods,9.5,Colombia,Medium,Certified,3.2447795313731094
+123,6,Ground,6.5,Ethiopia,Strong,Certified,5.362210236387398
+123,7,Whole bean,6.5,Ethiopia,Strong,Certified,2.7215557200345843
+123,8,Whole bean,6.5,Ethiopia,Medium,Standard,1.4645018835476806
+124,1,Pods,6.5,Blend,Medium,Certified,4.7844274816797006
+124,2,Whole bean,8,Ethiopia,Strong,Standard,1.667573977398769
+124,3,Ground,6.5,Blend,Strong,Standard,4.76250553946875
+124,4,Whole bean,9.5,Blend,Medium,Certified,1.762034800045246
+124,5,Whole bean,8,Colombia,Strong,Standard,1.9852691258211925
+124,6,Pods,6.5,Ethiopia,Medium,Certified,5.8569757745264575
+124,7,Ground,6.5,Colombia,Medium,Certified,4.011739709907271
+124,8,Pods,6.5,Blend,Medium,Certified,4.98085596451228
+125,1,Pods,6.5,Blend,Medium,Standard,4.386098443186293
+125,2,Pods,6.5,Ethiopia,Strong,Certified,3.9537779234074986
+125,3,Whole bean,8,Colombia,Strong,Certified,4.423760049072115
+125,4,Pods,9.5,Blend,Medium,Certified,2.124585241933254
+125,5,Ground,6.5,Colombia,Medium,Standard,2.6629996512474805
+125,6,Pods,9.5,Blend,Strong,Standard,3.371511490341958
+125,7,Whole bean,9.5,Ethiopia,Medium,Certified,2.131433841569032
+125,8,Pods,6.5,Ethiopia,Medium,Standard,3.943070024757923
+126,1,Ground,8,Blend,Medium,Standard,0.6463999419330264
+126,2,Ground,8,Colombia,Medium,Certified,4.265151628594369
+126,3,Ground,8,Colombia,Strong,Standard,2.5904885607407966
+126,4,Ground,6.5,Ethiopia,Strong,Certified,5.3751949386802265
+126,5,Pods,9.5,Blend,Medium,Certified,2.9028942625606637
+126,6,Ground,6.5,Colombia,Medium,Standard,4.302721519201821
+126,7,Ground,6.5,Colombia,Medium,Standard,5.248240284146494
+126,8,Pods,9.5,Blend,Medium,Certified,3.583042629917312
+127,1,Ground,9.5,Colombia,Strong,Standard,2.2426566333584423
+127,2,Ground,6.5,Colombia,Medium,Certified,4.447839826792098
+127,3,Whole bean,6.5,Ethiopia,Medium,Standard,2.939335767941026
+127,4,Whole bean,8,Ethiopia,Medium,Standard,2.5847969250634257
+127,5,Pods,6.5,Ethiopia,Medium,Certified,5.048510909154735
+127,6,Whole bean,6.5,Ethiopia,Strong,Certified,3.701583435629681
+127,7,Pods,6.5,Colombia,Medium,Standard,4.2330318391753785
+127,8,Whole bean,8,Ethiopia,Medium,Certified,1.9839368533078126
+128,1,Whole bean,9.5,Blend,Strong,Standard,2.1174827590230203
+128,2,Pods,9.5,Colombia,Strong,Certified,4.309122014024892
+128,3,Pods,6.5,Ethiopia,Strong,Certified,6.217761847145516
+128,4,Ground,8,Colombia,Strong,Standard,0.8981440500450706
+128,5,Ground,9.5,Colombia,Strong,Standard,3.00662252080369
+128,6,Ground,6.5,Blend,Strong,Certified,4.113383448404448
+128,7,Ground,9.5,Colombia,Strong,Certified,1.4656085263230825
+128,8,Ground,6.5,Ethiopia,Medium,Certified,3.0211773847737526
+129,1,Ground,6.5,Ethiopia,Strong,Standard,4.383702049016126
+129,2,Pods,8,Blend,Medium,Certified,4.1241578286552825
+129,3,Pods,8,Colombia,Strong,Certified,5.101215561670131
+129,4,Whole bean,6.5,Blend,Medium,Certified,2.9533487914550514
+129,5,Pods,9.5,Blend,Medium,Certified,3.346271919819971
+129,6,Whole bean,9.5,Ethiopia,Medium,Standard,1.1376019889298985
+129,7,Ground,9.5,Ethiopia,Medium,Certified,1.913974647017671
+129,8,Pods,6.5,Colombia,Medium,Standard,4.570357721321157
+130,1,Whole bean,8,Colombia,Medium,Certified,2.9747814027537998
+130,2,Whole bean,8,Ethiopia,Medium,Certified,1.1211996988475295
+130,3,Whole bean,6.5,Blend,Strong,Certified,4.575163174373197
+130,4,Pods,6.5,Colombia,Strong,Certified,5.3756546731804224
+130,5,Whole bean,8,Ethiopia,Medium,Certified,1.8793439654696824
+130,6,Whole bean,9.5,Blend,Strong,Standard,1.7232877722291762
+130,7,Pods,9.5,Ethiopia,Strong,Standard,2.6535100025683347
+130,8,Ground,6.5,Blend,Strong,Standard,3.299490672727095
+131,1,Whole bean,6.5,Colombia,Medium,Standard,2.5770970206949513
+131,2,Whole bean,6.5,Blend,Strong,Certified,3.560694489656996
+131,3,Pods,9.5,Colombia,Strong,Certified,2.8598061633097536
+131,4,Pods,6.5,Colombia,Strong,Certified,5.153015545283079
+131,5,Whole bean,6.5,Colombia,Strong,Certified,3.88208294726419
+131,6,Pods,6.5,Colombia,Medium,Certified,5.326689735611212
+131,7,Pods,6.5,Blend,Medium,Standard,4.460448188387312
+131,8,Ground,9.5,Colombia,Strong,Standard,2.2370916811380983
+132,1,Whole bean,6.5,Colombia,Strong,Certified,4.228998438847565
+132,2,Pods,9.5,Colombia,Strong,Standard,2.0771937450189117
+132,3,Pods,6.5,Ethiopia,Strong,Standard,5.258329831422171
+132,4,Ground,8,Ethiopia,Medium,Standard,2.200825883938442
+132,5,Whole bean,8,Blend,Strong,Standard,2.447074589365226
+132,6,Pods,6.5,Blend,Strong,Certified,2.945409376070464
+132,7,Ground,9.5,Colombia,Strong,Standard,2.932686983820637
+132,8,Ground,9.5,Ethiopia,Strong,Certified,2.953334765019809
+133,1,Whole bean,6.5,Ethiopia,Medium,Certified,3.8156592445010196
+133,2,Ground,6.5,Ethiopia,Strong,Certified,5.13712689995162
+133,3,Whole bean,6.5,Colombia,Medium,Certified,2.89573665617882
+133,4,Whole bean,9.5,Ethiopia,Medium,Standard,0.3530873989954011
+133,5,Pods,9.5,Blend,Strong,Certified,3.499933745983361
+133,6,Pods,9.5,Blend,Medium,Standard,2.568399958840112
+133,7,Whole bean,9.5,Blend,Medium,Standard,1.6318946412996032
+133,8,Whole bean,9.5,Blend,Strong,Certified,1.8000044577212506
+134,1,Whole bean,6.5,Colombia,Strong,Standard,3.4094669592485802
+134,2,Whole bean,6.5,Blend,Strong,Certified,3.4359069720572077
+134,3,Whole bean,9.5,Blend,Strong,Certified,1.3196435026132518
+134,4,Whole bean,8,Colombia,Strong,Standard,2.864588109952694
+134,5,Pods,9.5,Blend,Strong,Certified,3.554852112217917
+134,6,Pods,8,Blend,Strong,Certified,3.476828633842529
+134,7,Ground,9.5,Blend,Strong,Certified,2.8986868661586023
+134,8,Ground,8,Colombia,Strong,Standard,3.0771995684681013
+135,1,Pods,9.5,Colombia,Medium,Certified,3.7630825293353394
+135,2,Whole bean,6.5,Blend,Strong,Standard,2.4788730821690863
+135,3,Whole bean,8,Colombia,Strong,Certified,3.259617989294677
+135,4,Ground,6.5,Colombia,Strong,Certified,4.63870063255868
+135,5,Pods,6.5,Colombia,Medium,Standard,3.290903778636508
+135,6,Pods,9.5,Colombia,Strong,Certified,3.0444668380010365
+135,7,Pods,8,Colombia,Strong,Certified,2.4236263535889373
+135,8,Ground,6.5,Ethiopia,Strong,Standard,5.169057025259106
+136,1,Ground,6.5,Blend,Medium,Standard,2.0641227738020014
+136,2,Whole bean,6.5,Blend,Medium,Standard,2.644758606466493
+136,3,Whole bean,6.5,Colombia,Medium,Standard,4.09358841095254
+136,4,Ground,6.5,Colombia,Medium,Standard,3.006108560263138
+136,5,Whole bean,9.5,Ethiopia,Strong,Certified,1.771460410147589
+136,6,Whole bean,6.5,Blend,Strong,Standard,2.8727603036312304
+136,7,Ground,9.5,Ethiopia,Strong,Standard,2.5913518835432496
+136,8,Ground,8,Ethiopia,Strong,Certified,4.0676793188721625
+137,1,Whole bean,6.5,Ethiopia,Strong,Standard,3.379901293377203
+137,2,Ground,8,Colombia,Strong,Standard,1.839800470155641
+137,3,Pods,6.5,Blend,Strong,Certified,4.6830285857349105
+137,4,Whole bean,8,Blend,Medium,Certified,2.2326072234618444
+137,5,Pods,8,Blend,Strong,Certified,4.1008448580554315
+137,6,Whole bean,8,Blend,Medium,Certified,1.0072017159214859
+137,7,Whole bean,8,Ethiopia,Strong,Certified,4.169299336607889
+137,8,Ground,8,Colombia,Medium,Standard,1.5297768215638836
+138,1,Pods,9.5,Ethiopia,Medium,Standard,1.9231357131538
+138,2,Pods,6.5,Blend,Strong,Certified,3.6210029027713713
+138,3,Ground,9.5,Colombia,Strong,Standard,2.5167185503146827
+138,4,Whole bean,9.5,Blend,Strong,Standard,-0.09966297189858908
+138,5,Ground,8,Blend,Medium,Certified,2.7636563241579712
+138,6,Whole bean,6.5,Ethiopia,Strong,Standard,5.072989746333935
+138,7,Ground,8,Colombia,Strong,Standard,3.371302256460319
+138,8,Whole bean,6.5,Ethiopia,Medium,Certified,3.7257392836577576
+139,1,Pods,9.5,Ethiopia,Medium,Certified,2.4868035099290617
+139,2,Ground,8,Colombia,Strong,Certified,4.642164529187033
+139,3,Ground,6.5,Ethiopia,Strong,Certified,5.227895329635824
+139,4,Ground,9.5,Ethiopia,Strong,Standard,1.655942680821422
+139,5,Ground,9.5,Ethiopia,Strong,Certified,2.877630889616296
+139,6,Whole bean,6.5,Ethiopia,Strong,Certified,3.572950232954348
+139,7,Whole bean,6.5,Blend,Medium,Certified,4.241216492219673
+139,8,Pods,9.5,Ethiopia,Strong,Standard,2.667827118921019
+140,1,Ground,6.5,Ethiopia,Strong,Certified,5.122003850589011
+140,2,Ground,9.5,Blend,Medium,Certified,1.5620182468223116
+140,3,Whole bean,6.5,Blend,Medium,Certified,3.963422711321475
+140,4,Ground,9.5,Ethiopia,Medium,Standard,2.980318814616856
+140,5,Ground,6.5,Colombia,Medium,Certified,4.611719064436496
+140,6,Whole bean,9.5,Colombia,Medium,Certified,2.3412338236373653
+140,7,Pods,6.5,Ethiopia,Medium,Standard,3.0444609092681665
+140,8,Ground,9.5,Ethiopia,Medium,Certified,2.7731868491202842
+141,1,Ground,8,Blend,Strong,Certified,3.5743945969555124
+141,2,Pods,6.5,Blend,Medium,Certified,4.707075599903924
+141,3,Ground,8,Ethiopia,Strong,Certified,3.9628326305034136
+141,4,Pods,9.5,Colombia,Strong,Certified,3.3040159084475325
+141,5,Ground,9.5,Blend,Strong,Certified,2.4401241295924123
+141,6,Whole bean,6.5,Ethiopia,Medium,Standard,3.7738933462302393
+141,7,Ground,9.5,Blend,Strong,Standard,2.6281690438674223
+141,8,Whole bean,6.5,Blend,Medium,Standard,3.474839199872301
+142,1,Pods,6.5,Colombia,Medium,Certified,5.61550818013799
+142,2,Whole bean,6.5,Blend,Medium,Certified,4.2366277496780205
+142,3,Pods,8,Ethiopia,Medium,Standard,3.4593596097402903
+142,4,Pods,9.5,Colombia,Medium,Certified,4.689140063303933
+142,5,Ground,6.5,Ethiopia,Strong,Standard,4.369580057711548
+142,6,Whole bean,9.5,Ethiopia,Medium,Certified,3.540329007039738
+142,7,Pods,8,Ethiopia,Medium,Standard,3.7937847834721032
+142,8,Pods,6.5,Ethiopia,Strong,Standard,4.462416976982075
+143,1,Whole bean,8,Colombia,Strong,Certified,2.5098618001075095
+143,2,Whole bean,9.5,Ethiopia,Strong,Certified,2.7162257762398294
+143,3,Whole bean,9.5,Blend,Medium,Standard,1.2435849258353657
+143,4,Pods,8,Blend,Strong,Standard,2.929564991814469
+143,5,Whole bean,8,Colombia,Strong,Certified,2.9844614445013216
+143,6,Ground,8,Colombia,Medium,Standard,2.6262152805699426
+143,7,Pods,6.5,Ethiopia,Medium,Standard,4.345346879571484
+143,8,Ground,6.5,Colombia,Medium,Standard,4.121325756190347
+144,1,Pods,8,Blend,Medium,Standard,2.2833184007520786
+144,2,Pods,8,Ethiopia,Strong,Standard,2.6649483006664667
+144,3,Whole bean,8,Blend,Strong,Certified,4.212340217779391
+144,4,Pods,6.5,Colombia,Medium,Certified,6.674424994905428
+144,5,Pods,6.5,Ethiopia,Medium,Standard,3.787728687808038
+144,6,Pods,9.5,Colombia,Medium,Standard,2.155687326284771
+144,7,Pods,6.5,Ethiopia,Strong,Standard,5.013272706916069
+144,8,Ground,9.5,Colombia,Strong,Certified,1.9090490014266661
+145,1,Whole bean,6.5,Colombia,Medium,Standard,2.4884136266867816
+145,2,Whole bean,9.5,Ethiopia,Strong,Standard,3.172891615703726
+145,3,Ground,6.5,Ethiopia,Medium,Certified,3.8360247541229464
+145,4,Pods,9.5,Blend,Medium,Standard,1.8937714387039721
+145,5,Ground,6.5,Ethiopia,Strong,Standard,4.380743004357915
+145,6,Ground,9.5,Blend,Medium,Standard,0.7850946961889971
+145,7,Pods,8,Blend,Medium,Certified,3.9764586183103554
+145,8,Pods,8,Ethiopia,Strong,Standard,3.047849578893083
+146,1,Whole bean,9.5,Ethiopia,Strong,Standard,0.9938417343703807
+146,2,Ground,6.5,Blend,Medium,Certified,3.3664588697138607
+146,3,Pods,9.5,Blend,Medium,Certified,3.1026379630057237
+146,4,Pods,6.5,Ethiopia,Medium,Certified,4.592823221129277
+146,5,Whole bean,8,Colombia,Medium,Certified,3.198867846037767
+146,6,Whole bean,8,Blend,Strong,Certified,2.652289539176907
+146,7,Pods,6.5,Ethiopia,Medium,Standard,3.84041619092441
+146,8,Ground,9.5,Colombia,Medium,Standard,0.9977026406564027
+147,1,Whole bean,9.5,Ethiopia,Medium,Certified,1.544867753088133
+147,2,Pods,9.5,Blend,Strong,Standard,2.0184409358288677
+147,3,Ground,8,Ethiopia,Medium,Standard,2.602316859202247
+147,4,Whole bean,6.5,Ethiopia,Strong,Certified,3.83937174652966
+147,5,Ground,9.5,Blend,Strong,Certified,2.9733229781130923
+147,6,Whole bean,8,Colombia,Medium,Standard,1.5814926205116082
+147,7,Whole bean,6.5,Colombia,Strong,Certified,3.7920816103154906
+147,8,Whole bean,9.5,Blend,Medium,Certified,0.874312919422186
+148,1,Ground,8,Ethiopia,Medium,Certified,2.455402650810152
+148,2,Ground,6.5,Colombia,Medium,Standard,3.814101394618042
+148,3,Whole bean,8,Ethiopia,Medium,Certified,1.9771372393830102
+148,4,Ground,8,Colombia,Medium,Certified,4.248970731700324
+148,5,Ground,8,Blend,Strong,Certified,2.969674938148859
+148,6,Ground,6.5,Ethiopia,Medium,Standard,4.587454119505339
+148,7,Ground,6.5,Blend,Medium,Standard,1.9687849746769204
+148,8,Whole bean,6.5,Colombia,Strong,Standard,2.1845631209976384
+149,1,Whole bean,6.5,Blend,Medium,Certified,3.3237725187972393
+149,2,Pods,8,Colombia,Strong,Standard,4.712925165012615
+149,3,Ground,6.5,Colombia,Strong,Standard,3.3121698531868913
+149,4,Ground,6.5,Blend,Strong,Certified,3.535411977464146
+149,5,Pods,9.5,Colombia,Strong,Standard,2.153821833294291
+149,6,Whole bean,9.5,Ethiopia,Medium,Standard,0.07956875342678726
+149,7,Whole bean,6.5,Colombia,Medium,Certified,2.777646154997161
+149,8,Pods,9.5,Blend,Medium,Certified,2.608449922821972
+150,1,Whole bean,9.5,Ethiopia,Medium,Certified,1.4176864450005542
+150,2,Whole bean,6.5,Colombia,Strong,Certified,4.5110918152823665
+150,3,Whole bean,9.5,Blend,Strong,Certified,2.2482385060636534
+150,4,Ground,9.5,Colombia,Strong,Certified,3.091547989765036
+150,5,Whole bean,8,Colombia,Strong,Certified,2.710024240576571
+150,6,Whole bean,6.5,Colombia,Strong,Standard,3.7896740368171575
+150,7,Pods,6.5,Colombia,Medium,Certified,5.127410705132158
+150,8,Ground,8,Colombia,Medium,Certified,3.035477992264805
+151,1,Pods,6.5,Colombia,Strong,Certified,4.512488783777341
+151,2,Pods,6.5,Ethiopia,Medium,Standard,4.27339345525759
+151,3,Pods,9.5,Ethiopia,Medium,Standard,2.2265195008594385
+151,4,Whole bean,6.5,Colombia,Strong,Standard,3.734848255332403
+151,5,Whole bean,8,Blend,Medium,Standard,0.5356980612733384
+151,6,Pods,9.5,Ethiopia,Strong,Standard,2.0124764103701924
+151,7,Ground,9.5,Colombia,Medium,Certified,2.521325325207614
+151,8,Ground,6.5,Colombia,Medium,Certified,3.3593091400904247
+152,1,Whole bean,6.5,Colombia,Medium,Certified,3.082389439389233
+152,2,Ground,9.5,Blend,Strong,Standard,2.0893341259399487
+152,3,Whole bean,6.5,Blend,Medium,Standard,1.361836977750539
+152,4,Ground,9.5,Ethiopia,Medium,Standard,1.5363098974131293
+152,5,Ground,8,Colombia,Medium,Certified,3.72533749129889
+152,6,Pods,6.5,Blend,Medium,Standard,4.083578490433845
+152,7,Whole bean,6.5,Blend,Strong,Certified,3.160792490104245
+152,8,Ground,6.5,Blend,Strong,Certified,4.85145144969709
+153,1,Whole bean,8,Ethiopia,Strong,Certified,2.7861777846871485
+153,2,Pods,6.5,Colombia,Medium,Standard,3.8357453666685655
+153,3,Ground,6.5,Colombia,Strong,Standard,5.1915153793822455
+153,4,Whole bean,8,Blend,Medium,Standard,1.5325898104262623
+153,5,Ground,8,Ethiopia,Strong,Standard,1.8305917018041693
+153,6,Pods,9.5,Ethiopia,Medium,Certified,3.4102282511543858
+153,7,Whole bean,8,Ethiopia,Medium,Certified,1.7101449056928653
+153,8,Pods,8,Blend,Medium,Standard,3.071249973307428
+154,1,Ground,6.5,Colombia,Strong,Certified,3.0439788266782184
+154,2,Ground,9.5,Blend,Medium,Certified,2.2107098593263914
+154,3,Ground,9.5,Ethiopia,Strong,Certified,1.0536892227630457
+154,4,Whole bean,9.5,Blend,Strong,Certified,3.139054134835117
+154,5,Whole bean,9.5,Ethiopia,Medium,Standard,2.3762332298731494
+154,6,Pods,8,Blend,Medium,Certified,4.109368682295006
+154,7,Ground,6.5,Blend,Strong,Standard,2.6318200968043444
+154,8,Pods,9.5,Blend,Medium,Standard,2.5904978179802813
+155,1,Ground,9.5,Colombia,Medium,Standard,1.119405615181499
+155,2,Pods,8,Blend,Medium,Certified,5.0849370788491965
+155,3,Ground,6.5,Colombia,Medium,Certified,3.360844550513157
+155,4,Ground,9.5,Colombia,Medium,Certified,3.0307608525533896
+155,5,Pods,6.5,Blend,Medium,Certified,3.6429362129206564
+155,6,Ground,6.5,Blend,Medium,Standard,2.8556761341254386
+155,7,Whole bean,6.5,Blend,Strong,Standard,3.807183418353336
+155,8,Whole bean,9.5,Blend,Strong,Standard,0.7072762240896914
+156,1,Pods,9.5,Ethiopia,Medium,Standard,2.2804883359112758
+156,2,Ground,9.5,Colombia,Medium,Standard,2.942224676742084
+156,3,Whole bean,9.5,Colombia,Medium,Certified,1.4381003921423732
+156,4,Pods,6.5,Blend,Strong,Certified,5.067387340499225
+156,5,Ground,6.5,Ethiopia,Strong,Certified,5.568661587424145
+156,6,Ground,8,Colombia,Strong,Certified,3.7959533078827286
+156,7,Pods,9.5,Ethiopia,Strong,Certified,3.941426921679976
+156,8,Pods,8,Ethiopia,Medium,Standard,4.369196818517429
+157,1,Whole bean,8,Ethiopia,Medium,Certified,0.9954042868002215
+157,2,Pods,9.5,Colombia,Strong,Standard,2.370827262069514
+157,3,Whole bean,6.5,Ethiopia,Strong,Certified,3.2495737450965443
+157,4,Ground,9.5,Blend,Strong,Certified,3.4345078882499145
+157,5,Whole bean,8,Colombia,Medium,Standard,2.563695815534436
+157,6,Whole bean,8,Blend,Medium,Certified,1.5980767688139734
+157,7,Whole bean,9.5,Ethiopia,Strong,Certified,3.552571475551534
+157,8,Whole bean,8,Blend,Strong,Standard,1.519839300350249
+158,1,Whole bean,9.5,Colombia,Medium,Standard,1.1075476269993827
+158,2,Whole bean,6.5,Colombia,Medium,Certified,4.6695203375394465
+158,3,Whole bean,9.5,Colombia,Medium,Certified,1.7422491808699236
+158,4,Pods,9.5,Colombia,Strong,Certified,3.2441497534290473
+158,5,Pods,6.5,Ethiopia,Medium,Standard,3.4186534321657573
+158,6,Ground,8,Colombia,Medium,Certified,2.2206317927030037
+158,7,Pods,8,Ethiopia,Strong,Standard,3.5414321454204316
+158,8,Whole bean,8,Colombia,Strong,Certified,3.6483382653864354
+159,1,Whole bean,8,Ethiopia,Medium,Standard,2.8749295263082493
+159,2,Pods,9.5,Colombia,Medium,Certified,2.4871580820809114
+159,3,Whole bean,8,Colombia,Strong,Certified,1.7124927261035412
+159,4,Whole bean,9.5,Ethiopia,Strong,Standard,0.028406781048470053
+159,5,Ground,8,Ethiopia,Strong,Standard,1.2529273430212189
+159,6,Ground,9.5,Colombia,Strong,Standard,2.3319260764398857
+159,7,Ground,8,Ethiopia,Strong,Standard,4.643977670752965
+159,8,Whole bean,8,Ethiopia,Strong,Certified,3.4258285264845956
+160,1,Pods,9.5,Blend,Medium,Standard,1.6278335062228106
+160,2,Pods,8,Blend,Strong,Certified,3.3593453952792256
+160,3,Ground,6.5,Ethiopia,Strong,Standard,3.3923443688782062
+160,4,Whole bean,8,Blend,Strong,Certified,3.4702607439429416
+160,5,Whole bean,6.5,Colombia,Medium,Certified,4.233833265627244
+160,6,Pods,6.5,Blend,Strong,Certified,3.9349386788582863
+160,7,Pods,8,Blend,Strong,Standard,4.9622365921434834
+160,8,Ground,8,Blend,Strong,Certified,3.8078744936853033
+161,1,Pods,8,Colombia,Medium,Standard,2.8048202346091937
+161,2,Pods,8,Blend,Medium,Certified,2.432943644161404
+161,3,Ground,9.5,Colombia,Strong,Standard,1.9646412351236273
+161,4,Pods,9.5,Colombia,Medium,Standard,2.060828159701091
+161,5,Ground,8,Colombia,Strong,Standard,2.808006365210294
+161,6,Whole bean,9.5,Colombia,Medium,Certified,0.9430829066485847
+161,7,Ground,9.5,Blend,Strong,Certified,2.6257504571510486
+161,8,Pods,8,Ethiopia,Medium,Certified,4.984049194699663
+162,1,Pods,8,Blend,Medium,Certified,4.614870174798376
+162,2,Pods,6.5,Ethiopia,Medium,Standard,4.957747466191696
+162,3,Ground,8,Blend,Strong,Certified,3.4729547083487726
+162,4,Pods,9.5,Blend,Medium,Standard,2.115569325646762
+162,5,Whole bean,8,Ethiopia,Strong,Standard,1.5288298861994913
+162,6,Ground,9.5,Ethiopia,Strong,Certified,1.3662382827421242
+162,7,Pods,9.5,Colombia,Strong,Certified,4.088064426008379
+162,8,Ground,6.5,Blend,Medium,Certified,3.3686934810098323
+163,1,Pods,8,Colombia,Medium,Certified,2.614517868610256
+163,2,Pods,8,Colombia,Medium,Standard,3.5526743657915913
+163,3,Whole bean,8,Blend,Medium,Certified,2.9600900319913697
+163,4,Whole bean,8,Blend,Medium,Certified,2.961464032922261
+163,5,Whole bean,9.5,Ethiopia,Strong,Standard,2.2375225546145625
+163,6,Pods,6.5,Ethiopia,Strong,Standard,4.087297179853007
+163,7,Ground,8,Colombia,Medium,Standard,2.6819451718520417
+163,8,Whole bean,8,Ethiopia,Medium,Certified,1.824358011995034
+164,1,Whole bean,9.5,Blend,Strong,Standard,0.7581504778746656
+164,2,Ground,8,Ethiopia,Medium,Standard,2.514273726860976
+164,3,Ground,9.5,Ethiopia,Strong,Standard,2.536591583151199
+164,4,Ground,9.5,Blend,Medium,Standard,2.5551464496495377
+164,5,Pods,9.5,Blend,Strong,Certified,2.023993168369561
+164,6,Pods,9.5,Colombia,Medium,Certified,3.793509767091013
+164,7,Whole bean,6.5,Ethiopia,Strong,Certified,4.807985477711021
+164,8,Whole bean,9.5,Blend,Medium,Standard,2.6059992484894865
+165,1,Pods,9.5,Colombia,Medium,Standard,2.415774795332465
+165,2,Whole bean,6.5,Colombia,Medium,Standard,3.343409143628906
+165,3,Ground,8,Ethiopia,Medium,Standard,3.065420277154484
+165,4,Whole bean,8,Colombia,Medium,Certified,3.8200275021389265
+165,5,Ground,6.5,Ethiopia,Strong,Certified,5.359304493008531
+165,6,Whole bean,6.5,Colombia,Medium,Certified,3.780387204646242
+165,7,Pods,8,Blend,Medium,Certified,5.37027986455675
+165,8,Ground,9.5,Colombia,Medium,Standard,2.344704512186333
+166,1,Whole bean,6.5,Blend,Strong,Certified,3.9937116804341644
+166,2,Ground,9.5,Blend,Strong,Standard,1.8704102725641572
+166,3,Whole bean,6.5,Colombia,Medium,Standard,2.3787800513654345
+166,4,Whole bean,6.5,Blend,Medium,Certified,3.7368256733838496
+166,5,Ground,8,Blend,Medium,Certified,3.0069280214373686
+166,6,Whole bean,9.5,Colombia,Medium,Standard,0.32473776017406253
+166,7,Pods,8,Blend,Strong,Certified,3.258510850080989
+166,8,Whole bean,6.5,Blend,Strong,Standard,3.7686528166491007
+167,1,Ground,8,Blend,Medium,Certified,3.563813728994623
+167,2,Ground,9.5,Colombia,Medium,Standard,0.18627195229023896
+167,3,Pods,9.5,Ethiopia,Strong,Standard,3.3142338714909423
+167,4,Whole bean,9.5,Blend,Strong,Standard,1.7320931222846325
+167,5,Ground,6.5,Blend,Strong,Standard,6.481547490263067
+167,6,Ground,8,Blend,Strong,Certified,5.134766941898086
+167,7,Whole bean,6.5,Blend,Medium,Standard,2.0880295639605992
+167,8,Pods,6.5,Ethiopia,Medium,Standard,5.068100844929385
+168,1,Whole bean,8,Blend,Medium,Standard,1.9280270453955053
+168,2,Ground,8,Blend,Medium,Certified,2.880048421786012
+168,3,Pods,6.5,Blend,Strong,Standard,5.008824071822861
+168,4,Pods,9.5,Ethiopia,Medium,Standard,3.381245844324179
+168,5,Pods,9.5,Ethiopia,Strong,Certified,4.878529069262447
+168,6,Whole bean,6.5,Colombia,Medium,Standard,3.133872728442665
+168,7,Ground,9.5,Blend,Strong,Certified,1.7023735706889864
+168,8,Whole bean,9.5,Ethiopia,Strong,Standard,0.29737584742546774
+169,1,Pods,9.5,Ethiopia,Strong,Standard,2.925324366381206
+169,2,Pods,9.5,Blend,Medium,Certified,3.4226624441225564
+169,3,Whole bean,8,Ethiopia,Strong,Certified,3.1007679584013808
+169,4,Whole bean,8,Blend,Medium,Standard,0.3182987733326035
+169,5,Ground,6.5,Blend,Strong,Certified,3.8673816753774486
+169,6,Pods,9.5,Blend,Strong,Standard,1.7292010519865588
+169,7,Whole bean,8,Ethiopia,Strong,Standard,2.455296507712868
+169,8,Pods,8,Ethiopia,Medium,Certified,3.6252907533641827
+170,1,Whole bean,6.5,Colombia,Medium,Certified,3.8329951708036933
+170,2,Pods,9.5,Ethiopia,Medium,Certified,2.7663138968018166
+170,3,Whole bean,9.5,Blend,Strong,Certified,0.9833877167863645
+170,4,Pods,9.5,Ethiopia,Strong,Standard,2.3125349024354627
+170,5,Pods,6.5,Blend,Strong,Standard,4.2994711683286315
+170,6,Ground,8,Ethiopia,Medium,Standard,1.9596564938782053
+170,7,Ground,9.5,Ethiopia,Medium,Standard,1.6211616560645248
+170,8,Pods,9.5,Colombia,Medium,Certified,1.6846285872194864
+171,1,Ground,6.5,Ethiopia,Strong,Standard,4.7642730402312985
+171,2,Whole bean,6.5,Colombia,Medium,Standard,2.9435293071541824
+171,3,Ground,9.5,Ethiopia,Medium,Certified,1.748208914770922
+171,4,Whole bean,9.5,Blend,Strong,Standard,1.239251936982063
+171,5,Whole bean,6.5,Ethiopia,Strong,Standard,3.374817785221232
+171,6,Ground,6.5,Colombia,Medium,Standard,2.940008485825801
+171,7,Whole bean,9.5,Ethiopia,Medium,Certified,3.2269649377262457
+171,8,Ground,9.5,Blend,Medium,Certified,3.369628845829367
+172,1,Whole bean,6.5,Ethiopia,Medium,Standard,3.3214915181984317
+172,2,Pods,6.5,Ethiopia,Medium,Certified,5.731564030957594
+172,3,Ground,6.5,Blend,Strong,Standard,3.3895757218742917
+172,4,Whole bean,8,Ethiopia,Medium,Standard,1.2822571214883967
+172,5,Ground,8,Ethiopia,Medium,Standard,2.5134672104439253
+172,6,Pods,9.5,Colombia,Strong,Certified,3.9363290765018215
+172,7,Pods,6.5,Colombia,Medium,Standard,3.4124149902146392
+172,8,Ground,6.5,Ethiopia,Medium,Certified,5.645521632147197
+173,1,Pods,9.5,Colombia,Medium,Certified,3.7708885376039847
+173,2,Ground,6.5,Blend,Medium,Certified,4.677051663323965
+173,3,Ground,8,Ethiopia,Strong,Standard,3.7130755541818736
+173,4,Pods,6.5,Ethiopia,Medium,Standard,5.059078536986168
+173,5,Pods,6.5,Blend,Medium,Standard,3.1082057249874895
+173,6,Ground,9.5,Blend,Strong,Certified,2.2568334839187285
+173,7,Pods,8,Ethiopia,Strong,Standard,3.776187753526479
+173,8,Ground,6.5,Ethiopia,Medium,Certified,5.229386318171673
+174,1,Whole bean,9.5,Ethiopia,Medium,Certified,2.664635708915528
+174,2,Ground,6.5,Ethiopia,Strong,Standard,4.104860307305391
+174,3,Pods,9.5,Blend,Medium,Certified,2.731954550720652
+174,4,Pods,6.5,Blend,Strong,Standard,4.415171677281586
+174,5,Ground,9.5,Colombia,Strong,Certified,3.1408794042667156
+174,6,Pods,6.5,Colombia,Medium,Standard,3.4348239952066697
+174,7,Whole bean,9.5,Blend,Strong,Certified,0.30813496261705176
+174,8,Whole bean,9.5,Blend,Medium,Standard,0.9932738830504381
+175,1,Pods,6.5,Colombia,Strong,Certified,3.6987663556471517
+175,2,Ground,9.5,Colombia,Medium,Certified,2.964523384128987
+175,3,Ground,9.5,Ethiopia,Medium,Standard,0.7687372517612645
+175,4,Ground,8,Ethiopia,Strong,Certified,2.913103186730118
+175,5,Pods,6.5,Colombia,Medium,Certified,3.8425485904849612
+175,6,Ground,6.5,Ethiopia,Strong,Standard,3.6115187984150565
+175,7,Ground,6.5,Blend,Medium,Standard,3.7505726353810216
+175,8,Pods,6.5,Blend,Strong,Standard,5.233290355752653
+176,1,Whole bean,6.5,Ethiopia,Medium,Certified,3.166063664640595
+176,2,Whole bean,8,Ethiopia,Medium,Certified,3.530644051545549
+176,3,Whole bean,9.5,Colombia,Medium,Standard,2.0488778928974365
+176,4,Whole bean,6.5,Colombia,Medium,Standard,2.8170771336165763
+176,5,Ground,6.5,Colombia,Medium,Standard,3.8996371692975815
+176,6,Ground,9.5,Blend,Strong,Certified,1.631072178583362
+176,7,Pods,9.5,Ethiopia,Strong,Certified,3.4431820695446835
+176,8,Whole bean,8,Blend,Medium,Standard,4.089312061236871
+177,1,Pods,6.5,Colombia,Medium,Certified,4.992745375305698
+177,2,Ground,8,Colombia,Medium,Certified,3.105946312073465
+177,3,Whole bean,8,Blend,Strong,Certified,3.031226544520631
+177,4,Pods,8,Ethiopia,Strong,Certified,4.538432553896169
+177,5,Pods,9.5,Blend,Strong,Certified,3.381558111723983
+177,6,Whole bean,8,Colombia,Strong,Standard,2.4979378242435204
+177,7,Ground,6.5,Colombia,Strong,Certified,3.8874970261508053
+177,8,Ground,8,Blend,Medium,Certified,3.2184400121550776
+178,1,Pods,8,Ethiopia,Medium,Certified,3.22992688781934
+178,2,Pods,8,Ethiopia,Strong,Certified,3.9541081273794543
+178,3,Pods,6.5,Colombia,Medium,Certified,5.471880010622614
+178,4,Ground,9.5,Ethiopia,Strong,Standard,2.2520532898760566
+178,5,Whole bean,8,Ethiopia,Medium,Certified,2.78950819524426
+178,6,Ground,8,Colombia,Strong,Certified,3.932670317101136
+178,7,Whole bean,8,Ethiopia,Medium,Standard,3.199555173263857
+178,8,Ground,8,Colombia,Medium,Standard,2.0930050204138118
+179,1,Ground,9.5,Ethiopia,Strong,Certified,1.631085294004228
+179,2,Ground,9.5,Ethiopia,Medium,Standard,2.2189208740550566
+179,3,Ground,6.5,Ethiopia,Medium,Certified,3.565059553766445
+179,4,Whole bean,9.5,Colombia,Medium,Standard,0.8220430284224722
+179,5,Pods,6.5,Ethiopia,Strong,Standard,5.063867507491796
+179,6,Whole bean,6.5,Ethiopia,Strong,Standard,4.69381501875181
+179,7,Whole bean,6.5,Colombia,Medium,Certified,4.559816585360099
+179,8,Ground,6.5,Ethiopia,Medium,Certified,3.9313376220734972
+180,1,Pods,9.5,Ethiopia,Strong,Standard,4.082548257146983
+180,2,Pods,8,Colombia,Medium,Standard,5.535003605326887
+180,3,Whole bean,8,Blend,Strong,Standard,2.7657429303743952
+180,4,Ground,8,Blend,Medium,Standard,3.789604450361919
+180,5,Pods,6.5,Colombia,Medium,Standard,3.8602927358399532
+180,6,Ground,9.5,Ethiopia,Medium,Standard,1.366456330220103
+180,7,Pods,8,Colombia,Medium,Certified,4.756034482100287
+180,8,Ground,6.5,Blend,Strong,Standard,4.116993003902131
