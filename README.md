@@ -1,8 +1,8 @@
 # Retail Customer & Product Strategy in R
 
-A commercial analytics case that connects customer value, behavioural segmentation and product design into one retail decision: **which customers should a new coffee product target, and what proposition should the retailer take to market?**
+This project combines customer value, behavioural segmentation and product-design analysis to identify a target segment and evaluate the attributes of a proposed coffee product.
 
-The submitted MSc project combined RFM analysis, clustering, prospect classification, conjoint analysis, market-share simulation and PCA. The public rebuild focuses on the strongest commercial methods and uses synthetic data because the four university source files are unavailable.
+The submitted MSc project combined RFM analysis, clustering, prospect classification, conjoint analysis, market-share simulation and PCA. The GitHub version focuses on the strongest commercial methods and uses synthetic data because the four university source files are unavailable.
 
 ## Historical project evidence
 
@@ -37,7 +37,7 @@ target segment definition
 evidence-based product, price, channel and promotion choices
 ```
 
-## What the rebuild improves
+## Changes made for public release
 
 - Separates exploratory segmentation from predictive claims.
 - Removes the weak LDA headline: the submitted classifier achieved no meaningful lift over the null rate.
@@ -67,11 +67,11 @@ Rscript R/run_analysis.R
 Rscript tests/validate_results.R
 ```
 
-## Responsible interpretation
+## Limitations
 
 RFM clusters describe observed purchasing patterns; they do not prove future response. Conjoint utilities come from stated preferences and are sensitive to design and sample quality. The market-share output is a controlled preference simulation, not a commercial forecast.
 
 ## Author
 
-**Muhammad Ahmed Shoaib** — retail analytics, customer segmentation and commercial decision support.
-
+**Muhammad Ahmed Shoaib**<br>
+Retail analytics, customer segmentation and commercial decision support.
