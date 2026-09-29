@@ -4,6 +4,14 @@ This project combines customer value, behavioural segmentation and product-desig
 
 The submitted MSc project combined RFM analysis, clustering, prospect classification, conjoint analysis, market-share simulation and PCA. The GitHub version focuses on the strongest commercial methods and uses synthetic data because the four university source files are unavailable.
 
+## Commercial problem
+
+A retail product decision has several layers: identify the customers worth serving, understand the attributes they value, position the concept against alternatives and decide how much confidence to place in a simulated preference share. This project connects those layers instead of treating segmentation, conjoint and positioning as unrelated techniques.
+
+## What I built
+
+I created customer-level recency, frequency and monetary measures, compared a four-cluster behavioural solution, interpreted the target segment, estimated conjoint part-worths and attribute importance, simulated concept preference and used PCA to map competitive positioning. The public rebuild turns that sequence into one reproducible R workflow with exported customer and product decision tables.
+
 ## Historical project evidence
 
 The submitted analysis covered **925 customers** and reported:
@@ -45,6 +53,8 @@ evidence-based product, price, channel and promotion choices
 - Exports customer-level RFM and segment assignments.
 - Keeps conjoint design, coefficients and attribute importance traceable.
 - Labels simulated market share as a preference scenario rather than a sales forecast.
+
+These changes sharpen the decision claim. The analysis can identify a plausible segment and product configuration, but a launch decision would still require concept testing, cost and margin data, distribution feasibility and a controlled market trial.
 
 ![Synthetic conjoint importance](figures/conjoint_importance.png)
 
