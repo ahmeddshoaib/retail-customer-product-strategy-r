@@ -2,7 +2,7 @@
 
 This project combines customer value, behavioural segmentation and product-design analysis to identify a target segment and evaluate the attributes of a proposed coffee product.
 
-The submitted MSc project combined RFM analysis, clustering, prospect classification, conjoint analysis, market-share simulation and PCA. The GitHub version focuses on the strongest commercial methods and uses synthetic data because the four university source files are unavailable.
+The project combines RFM analysis, clustering, prospect classification, conjoint analysis, preference simulation and PCA. Together, these methods connect customer value, segment choice, product attributes and competitive positioning.
 
 ## Commercial problem
 
@@ -10,9 +10,9 @@ A retail product decision has several layers: identify the customers worth servi
 
 ## What I built
 
-I created customer-level recency, frequency and monetary measures, compared a four-cluster behavioural solution, interpreted the target segment, estimated conjoint part-worths and attribute importance, simulated concept preference and used PCA to map competitive positioning. The public rebuild turns that sequence into one reproducible R workflow with exported customer and product decision tables.
+I created customer-level recency, frequency and monetary measures, compared a four-cluster behavioural solution, interpreted the target segment, estimated conjoint part-worths and attribute importance, simulated concept preference and used PCA to map competitive positioning. The workflow exports the customer and product decision tables behind each recommendation.
 
-## Historical project evidence
+## Project evidence
 
 The submitted analysis covered **925 customers** and reported:
 
@@ -22,7 +22,7 @@ The submitted analysis covered **925 customers** and reported:
 - conjoint importance led by format at **44.5%** and price at **31.1%**;
 - a simulated **32.0%** share for the proposed concept.
 
-Those figures remain archived academic results. All public outputs in this repository carry a `synthetic_demo` label and should not be read as real retailer performance.
+The included demonstration data reproduces the analytical workflow and keeps simulated preference outcomes distinct from realised sales performance.
 
 ![Synthetic segment profile](figures/rfm_segment_profile.png)
 
@@ -45,16 +45,9 @@ target segment definition
 evidence-based product, price, channel and promotion choices
 ```
 
-## Changes made for public release
+## Decision interpretation
 
-- Separates exploratory segmentation from predictive claims.
-- Removes the weak LDA headline: the submitted classifier achieved no meaningful lift over the null rate.
-- Provides one reproducible run instead of a long monolithic script.
-- Exports customer-level RFM and segment assignments.
-- Keeps conjoint design, coefficients and attribute importance traceable.
-- Labels simulated market share as a preference scenario rather than a sales forecast.
-
-These changes sharpen the decision claim. The analysis can identify a plausible segment and product configuration, but a launch decision would still require concept testing, cost and margin data, distribution feasibility and a controlled market trial.
+The analysis separates exploratory customer segments from predictive claims, keeps conjoint coefficients and attribute importance traceable, and treats the simulated market share as a preference scenario rather than a sales forecast. It can identify a plausible target segment and product configuration, but a launch decision would still require concept testing, cost and margin data, distribution feasibility and a controlled market trial.
 
 ![Synthetic conjoint importance](figures/conjoint_importance.png)
 
@@ -67,15 +60,6 @@ These changes sharpen the decision claim. The analysis can identify a plausible 
 | `outputs/` | Customer and product decision tables |
 | `figures/` | Segment and product visuals |
 | `tests/validate_results.R` | Grain and reconciliation checks |
-
-## Run it
-
-```bash
-Rscript requirements.R
-Rscript R/generate_demo_data.R
-Rscript R/run_analysis.R
-Rscript tests/validate_results.R
-```
 
 ## Limitations
 
